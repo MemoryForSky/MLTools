@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="fa3d60cbdb0e43639beba22f62a0a145" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_fa3d60cbdb0e43639beba22f62a0a145 = echarts.init(
+            document.getElementById('fa3d60cbdb0e43639beba22f62a0a145'), 'white', {renderer: 'canvas'});
+        var option_fa3d60cbdb0e43639beba22f62a0a145 = {
+    "tooltip": {
+        "trigger": "axis",
+        "axisPointer": {
+            "type": "cross",
+            "crossStyle": {
+                "color": "#999"
+            }
+        }
+    },
+    "toolbox": {
+        "feature": {
+            "dataView": {
+                "show": true,
+                "readOnly": false
+            },
+            "magicType": {
+                "show": true,
+                "type": [
+                    "line",
+                    "line"
+                ]
+            },
+            "restore": {
+                "show": true
+            },
+            "saveAsImage": {
+                "show": true
+            }
+        }
+    },
+    "legend": {
+        "data": [
+            "ks",
+            "bad_rate"
+        ]
+    },
+    "xAxis": [
+        {
+            "type": "category",
+            "data": [
+                "(352.62, 390.9]",
+                "(390.9, 428.8]",
+                "(428.8, 466.7]",
+                "(466.7, 504.6]",
+                "(504.6, 542.5]",
+                "(542.5, 580.4]",
+                "(580.4, 618.3]",
+                "(618.3, 656.2]",
+                "(656.2, 694.1]",
+                "(694.1, 732.0]"
+            ],
+            "axisPointer": {
+                "type": "shadow"
+            }
+        }
+    ],
+    "yAxis": [
+        {
+            "name": "ks"
+        },
+        {
+            "name": "bad_rate"
+        }
+    ],
+    "series": [
+        {
+            "name": "ks",
+            "type": "line",
+            "data": [
+                0.05,
+                0.24000000000000002,
+                0.47,
+                0.55,
+                0.37,
+                0.30000000000000004,
+                0.20999999999999996,
+                0.10999999999999999,
+                0.020000000000000018,
+                0.0
+            ]
+        },
+        {
+            "name": "bad_rate",
+            "type": "line",
+            "yAxisIndex": 1,
+            "data": [
+                1.0,
+                0.722,
+                0.559,
+                0.317,
+                0.065,
+                0.129,
+                0.1,
+                0.077,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+};
+        chart_fa3d60cbdb0e43639beba22f62a0a145.setOption(option_fa3d60cbdb0e43639beba22f62a0a145);
+    </script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="c224855382ad4afbace296a6714b8441" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_c224855382ad4afbace296a6714b8441 = echarts.init(
+            document.getElementById('c224855382ad4afbace296a6714b8441'), 'white', {renderer: 'canvas'});
+        var option_c224855382ad4afbace296a6714b8441 = {
+    "tooltip": {
+        "trigger": "axis",
+        "axisPointer": {
+            "type": "cross",
+            "crossStyle": {
+                "color": "#999"
+            }
+        }
+    },
+    "toolbox": {
+        "feature": {
+            "dataView": {
+                "show": true,
+                "readOnly": false
+            },
+            "magicType": {
+                "show": true,
+                "type": [
+                    "bar",
+                    "line"
+                ]
+            },
+            "restore": {
+                "show": true
+            },
+            "saveAsImage": {
+                "show": true
+            }
+        }
+    },
+    "legend": {
+        "data": [
+            "bin_cnt",
+            "bad_rate"
+        ]
+    },
+    "xAxis": [
+        {
+            "type": "category",
+            "data": [
+                "(352.62, 390.9]",
+                "(390.9, 428.8]",
+                "(428.8, 466.7]",
+                "(466.7, 504.6]",
+                "(504.6, 542.5]",
+                "(542.5, 580.4]",
+                "(580.4, 618.3]",
+                "(618.3, 656.2]",
+                "(656.2, 694.1]",
+                "(694.1, 732.0]"
+            ],
+            "axisPointer": {
+                "type": "shadow"
+            }
+        }
+    ],
+    "yAxis": [
+        {
+            "name": "bin_cnt"
+        },
+        {
+            "name": "bad_rate"
+        }
+    ],
+    "series": [
+        {
+            "name": "bin_cnt",
+            "type": "bar",
+            "data": [
+                3,
+                18,
+                34,
+                41,
+                46,
+                31,
+                30,
+                26,
+                17,
+                4
+            ]
+        },
+        {
+            "name": "bad_rate",
+            "type": "line",
+            "yAxisIndex": 1,
+            "data": [
+                1.0,
+                0.722,
+                0.559,
+                0.317,
+                0.065,
+                0.129,
+                0.1,
+                0.077,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+};
+        chart_c224855382ad4afbace296a6714b8441.setOption(option_c224855382ad4afbace296a6714b8441);
+    </script>
+</body>
+</html>

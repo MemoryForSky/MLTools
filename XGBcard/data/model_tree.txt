@@ -1,0 +1,6376 @@
+booster[0]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.12020202
+	2:leaf=-0.0101265823
+booster[1]:
+0:[housing<0.348786473] yes=1,no=2,missing=1
+	1:leaf=-0.0722604394
+	2:leaf=-0.0180760231
+booster[2]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.105690174
+	2:leaf=-0.00451575918
+booster[3]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.060430821
+	2:leaf=0.0109534292
+booster[4]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0939153284
+	2:leaf=-0
+booster[5]:
+0:[purpose<0.354166508] yes=1,no=2,missing=1
+	1:leaf=-0.0612308346
+	2:leaf=-0.00795440376
+booster[6]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.0463462882
+	2:leaf=-0
+booster[7]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0818275809
+	2:leaf=0.00349751161
+booster[8]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0764384791
+	2:leaf=0.00319144246
+booster[9]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0757308975
+	2:leaf=-0
+booster[10]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0595316701
+	2:leaf=-0.0089263171
+booster[11]:
+0:[purpose<0.354166508] yes=1,no=2,missing=1
+	1:leaf=-0.0439464524
+	2:leaf=-0
+booster[12]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0637097061
+	2:leaf=0.00674533984
+booster[13]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0374618135
+	2:leaf=0.0134588769
+booster[14]:
+0:[credit_history<0.356476486] yes=1,no=2,missing=1
+	1:leaf=-0.0324573703
+	2:leaf=0.0224726256
+booster[15]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0609302297
+	2:leaf=0.00766420085
+booster[16]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.049617108
+	2:leaf=-0
+booster[17]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0405501761
+	2:leaf=0.00233261939
+booster[18]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0552172177
+	2:leaf=0.00914613064
+booster[19]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0519743674
+	2:leaf=0.00832986832
+booster[20]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0456660427
+	2:leaf=0.00977525394
+booster[21]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0462289862
+	2:leaf=0.0071236142
+booster[22]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0252968669
+	2:leaf=0.0201750342
+booster[23]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0427027531
+	2:leaf=0.00753708789
+booster[24]:
+0:[account_check_status<0.343253493] yes=1,no=2,missing=1
+	1:leaf=-0.0372867957
+	2:leaf=0.00860460848
+booster[25]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0375757627
+	2:leaf=0.00461832201
+booster[26]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0371193103
+	2:leaf=0.00679113576
+booster[27]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0380127952
+	2:leaf=0.00578618795
+booster[28]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0303258132
+	2:leaf=0.00928886048
+booster[29]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0346827023
+	2:leaf=0.0144404965
+booster[30]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0333850943
+	2:leaf=0.00749574928
+booster[31]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0185659882
+	2:leaf=0.0213444605
+booster[32]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.03394695
+	2:leaf=0.00727234874
+booster[33]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.026704628
+	2:leaf=0.0103148343
+booster[34]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.031667985
+	2:leaf=0.00705490354
+booster[35]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0313276201
+	2:leaf=0.00777516887
+booster[36]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0290632006
+	2:leaf=0.00798423868
+booster[37]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0157870334
+	2:leaf=0.0209991187
+booster[38]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0195208918
+	2:leaf=-0.0129239326
+booster[39]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0281436872
+	2:leaf=0.00797415897
+booster[40]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0284224544
+	2:leaf=0.0157606062
+booster[41]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0232015494
+	2:leaf=0.0112867607
+booster[42]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0259780027
+	2:leaf=0.00758950412
+booster[43]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0261722934
+	2:leaf=0.0146891521
+booster[44]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.0107646687
+	2:leaf=0.0234190598
+booster[45]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0380625054
+	2:leaf=0.00806006975
+booster[46]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.025021648
+	2:leaf=0.00869873632
+booster[47]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0360782407
+	2:leaf=0.00742694829
+booster[48]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.027140785
+	2:leaf=0.00846801326
+booster[49]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0238524564
+	2:leaf=0.00738811074
+booster[50]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.0089120362
+	2:leaf=0.0318992995
+booster[51]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0189757682
+	2:leaf=-0.0102066109
+booster[52]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0217343848
+	2:leaf=0.0131286113
+booster[53]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0134170456
+	2:leaf=0.0208415519
+booster[54]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0215418227
+	2:leaf=0.00759233534
+booster[55]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0283136461
+	2:leaf=0.00630076835
+booster[56]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0123821544
+	2:leaf=0.0190771893
+booster[57]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0326651745
+	2:leaf=0.00764021743
+booster[58]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0197226163
+	2:leaf=0.0119065233
+booster[59]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0298776757
+	2:leaf=0.00667607877
+booster[60]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0269478541
+	2:leaf=0.00580437807
+booster[61]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.0105194179
+	2:leaf=0.020776771
+booster[62]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0242304672
+	2:leaf=0.00856645592
+booster[63]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00733701512
+	2:leaf=0.0254806373
+booster[64]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00714616803
+	2:leaf=0.0295225978
+booster[65]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0209118519
+	2:leaf=0.00874132849
+booster[66]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0112663684
+	2:leaf=0.0186128803
+booster[67]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.025147615
+	2:leaf=0.00617222069
+booster[68]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0172477942
+	2:leaf=0.0105615966
+booster[69]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0220600925
+	2:leaf=0.00820389204
+booster[70]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0274606775
+	2:leaf=0.00651877886
+booster[71]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0260052327
+	2:leaf=0.0059274747
+booster[72]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0185185056
+	2:leaf=-0.00913119875
+booster[73]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0104145287
+	2:leaf=0.0166586153
+booster[74]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.0103600128
+	2:leaf=0.0158781204
+booster[75]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00631647045
+	2:leaf=0.0271482524
+booster[76]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0152948769
+	2:leaf=0.0100512262
+booster[77]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0193972662
+	2:leaf=0.00777533883
+booster[78]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0238164179
+	2:leaf=0.00594774028
+booster[79]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0200926494
+	2:leaf=0.00749333948
+booster[80]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0192359649
+	2:leaf=-0.00749749644
+booster[81]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0223791283
+	2:leaf=0.00548927486
+booster[82]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00770381792
+	2:leaf=0.020371832
+booster[83]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00736690033
+	2:leaf=0.0204448998
+booster[84]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0230483171
+	2:leaf=0.00580811501
+booster[85]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00956708379
+	2:leaf=0.0161295868
+booster[86]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0181513
+	2:leaf=0.00725919008
+booster[87]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0145024732
+	2:leaf=0.00908066332
+booster[88]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00584400306
+	2:leaf=0.0227153711
+booster[89]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0184122678
+	2:leaf=0.00721033989
+booster[90]:
+0:[housing<0.348786473] yes=1,no=2,missing=1
+	1:leaf=-0.00818603393
+	2:leaf=0.0152826412
+booster[91]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0169713628
+	2:leaf=0.007323239
+booster[92]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00539547671
+	2:leaf=0.0239598788
+booster[93]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00822991692
+	2:leaf=0.0144133437
+booster[94]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0167492293
+	2:leaf=0.00672059646
+booster[95]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0216542147
+	2:leaf=0.00557885366
+booster[96]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0164953601
+	2:leaf=-0.00745806843
+booster[97]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0166609455
+	2:leaf=0.00675916672
+booster[98]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0212747306
+	2:leaf=0.00543115428
+booster[99]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00675428519
+	2:leaf=0.0185430292
+booster[100]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00829038303
+	2:leaf=0.0132250441
+booster[101]:
+0:[installment_as_income_perc<3.5] yes=1,no=2,missing=1
+	1:leaf=-0.0110900356
+	2:leaf=0.0118027311
+booster[102]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00532054808
+	2:leaf=0.0215642098
+booster[103]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0133733768
+	2:leaf=0.00857071485
+booster[104]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.0086485697
+	2:leaf=0.0129599487
+booster[105]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00735377101
+	2:leaf=0.0146367
+booster[106]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00462225312
+	2:leaf=0.0219720025
+booster[107]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00751067046
+	2:leaf=0.0138631137
+booster[108]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0153736547
+	2:leaf=0.00672090938
+booster[109]:
+0:[installment_as_income_perc<3.5] yes=1,no=2,missing=1
+	1:leaf=-0.0098248776
+	2:leaf=0.0109339273
+booster[110]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00929309893
+	2:leaf=-0.0116173858
+booster[111]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0196847171
+	2:leaf=0.00537479669
+booster[112]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00796333235
+	2:leaf=0.0118231522
+booster[113]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00614424516
+	2:leaf=0.017565731
+booster[114]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00583128072
+	2:leaf=0.0173514131
+booster[115]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0151221072
+	2:leaf=-0.00634177867
+booster[116]:
+0:[property<0.322282493] yes=1,no=2,missing=1
+	1:leaf=-0.00965300202
+	2:leaf=0.0100704972
+booster[117]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0188649949
+	2:leaf=0.00517655676
+booster[118]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0186347459
+	2:leaf=0.005041203
+booster[119]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0121996561
+	2:leaf=0.00793518405
+booster[120]:
+0:[housing<0.348786473] yes=1,no=2,missing=1
+	1:leaf=-0.00679319818
+	2:leaf=0.012885307
+booster[121]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00555026671
+	2:leaf=0.0159665383
+booster[122]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0069332174
+	2:leaf=0.0123510361
+booster[123]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0156697314
+	2:leaf=-0.00597247435
+booster[124]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00459075114
+	2:leaf=0.0198827162
+booster[125]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0119826011
+	2:leaf=0.00805899501
+booster[126]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00645822985
+	2:leaf=0.0133730574
+booster[127]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0144141857
+	2:leaf=0.00630817702
+booster[128]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.0142314434
+	2:leaf=-0.00601998158
+booster[129]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0148797994
+	2:leaf=-0.00553575903
+booster[130]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0143953934
+	2:leaf=0.00610687537
+booster[131]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0113033494
+	2:leaf=0.00741110742
+booster[132]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00443273969
+	2:leaf=0.0188893136
+booster[133]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0134140374
+	2:leaf=0.00618971465
+booster[134]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.0108328983
+	2:leaf=0.007322283
+booster[135]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0174855329
+	2:leaf=0.0047514718
+booster[136]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00417552842
+	2:leaf=0.0190851167
+booster[137]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00792411808
+	2:leaf=-0.0100578154
+booster[138]:
+0:[property<0.322282493] yes=1,no=2,missing=1
+	1:leaf=-0.00875520241
+	2:leaf=0.00880442187
+booster[139]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0110339653
+	2:leaf=0.00751089025
+booster[140]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00714302016
+	2:leaf=0.0106568635
+booster[141]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0220471378
+	2:leaf=0.00356594822
+booster[142]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00693666656
+	2:leaf=0.0110147474
+booster[143]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0110223694
+	2:leaf=0.00681855995
+booster[144]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00534463022
+	2:leaf=0.0147124371
+booster[145]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0133755123
+	2:leaf=0.00546242623
+booster[146]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00634892983
+	2:leaf=0.0108792251
+booster[147]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0140305031
+	2:leaf=-0.00558293937
+booster[148]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00509243039
+	2:leaf=0.0147916032
+booster[149]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00604608189
+	2:leaf=0.0121950796
+booster[150]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0135850506
+	2:leaf=-0.00514928484
+booster[151]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0169515181
+	2:leaf=0.00465622731
+booster[152]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0213296767
+	2:leaf=0.00349281472
+booster[153]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00419918401
+	2:leaf=0.0168121215
+booster[154]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0130858002
+	2:leaf=0.00523276906
+booster[155]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0136055145
+	2:leaf=-0.00500758877
+booster[156]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0128642758
+	2:leaf=-0.00504649384
+booster[157]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0165297985
+	2:leaf=0.00450134324
+booster[158]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0102159437
+	2:leaf=0.0067862086
+booster[159]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00479628285
+	2:leaf=0.0135456547
+booster[160]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0205097105
+	2:leaf=0.00330077484
+booster[161]:
+0:[housing<0.348786473] yes=1,no=2,missing=1
+	1:leaf=-0.00594835915
+	2:leaf=0.0110555384
+booster[162]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.012837179
+	2:leaf=0.00515551073
+booster[163]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00664541731
+	2:leaf=0.0094769476
+booster[164]:
+0:[installment_as_income_perc<3.5] yes=1,no=2,missing=1
+	1:leaf=-0.00797214638
+	2:leaf=0.00828273222
+booster[165]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00582085503
+	2:leaf=0.0111172823
+booster[166]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0197601356
+	2:leaf=0.00310449116
+booster[167]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0156185627
+	2:leaf=0.00389664294
+booster[168]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00489923637
+	2:leaf=0.0127601177
+booster[169]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0125409691
+	2:leaf=-0.00522079505
+booster[170]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00374341314
+	2:leaf=0.0166219119
+booster[171]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0120524121
+	2:leaf=0.00495922659
+booster[172]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0154676726
+	2:leaf=0.00393224088
+booster[173]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00390229817
+	2:leaf=0.0152596338
+booster[174]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00983526092
+	2:leaf=0.00611278601
+booster[175]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00967903063
+	2:leaf=0.00622500712
+booster[176]:
+0:[credit_amount<1373] yes=1,no=2,missing=1
+	1:leaf=0.0119492691
+	2:leaf=-0.00487747369
+booster[177]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00593240513
+	2:leaf=0.00957944896
+booster[178]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0146509735
+	2:leaf=0.00388029474
+booster[179]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00375842
+	2:leaf=0.0149423508
+booster[180]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00439294381
+	2:leaf=0.0126094511
+booster[181]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.0068971687
+	2:leaf=-0.00884066895
+booster[182]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0139114475
+	2:leaf=0.00373707572
+booster[183]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00425540516
+	2:leaf=0.0128582167
+booster[184]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00510942191
+	2:leaf=0.0100749899
+booster[185]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0189103317
+	2:leaf=0.00311001041
+booster[186]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00941979419
+	2:leaf=0.00577186886
+booster[187]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0116913533
+	2:leaf=0.00448112004
+booster[188]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00719522638
+	2:leaf=0.00733148074
+booster[189]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0142624257
+	2:leaf=0.00347809982
+booster[190]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0115986131
+	2:leaf=0.00441103149
+booster[191]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00578386569
+	2:leaf=0.00937989354
+booster[192]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0183539055
+	2:leaf=0.00268032751
+booster[193]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00425165519
+	2:leaf=0.0116239358
+booster[194]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.0109323142
+	2:leaf=-0.00486433785
+booster[195]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00347529957
+	2:leaf=0.0149633428
+booster[196]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.01028628
+	2:leaf=-0.00466587627
+booster[197]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0176277142
+	2:leaf=0.00281916722
+booster[198]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0107106492
+	2:leaf=0.00446087262
+booster[199]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00445764372
+	2:leaf=0.0118152723
+booster[200]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00425719051
+	2:leaf=0.0117465556
+booster[201]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00338485627
+	2:leaf=0.0137088075
+booster[202]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0088101346
+	2:leaf=0.00562208472
+booster[203]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00517590763
+	2:leaf=0.00844924804
+booster[204]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00839926489
+	2:leaf=0.00557165546
+booster[205]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00827188417
+	2:leaf=0.00550900539
+booster[206]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.0104696034
+	2:leaf=0.00412049098
+booster[207]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0132346768
+	2:leaf=0.00340807368
+booster[208]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0107318191
+	2:leaf=0.0041578603
+booster[209]:
+0:[purpose<0.401754498] yes=1,no=2,missing=1
+	1:leaf=-0.00494069373
+	2:leaf=0.0088085765
+booster[210]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00559454644
+	2:leaf=-0.00771747157
+booster[211]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0171089806
+	2:leaf=0.00256351102
+booster[212]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.0104786521
+	2:leaf=-0.00473276852
+booster[213]:
+0:[installment_as_income_perc<3.5] yes=1,no=2,missing=1
+	1:leaf=-0.00647402322
+	2:leaf=0.0064329477
+booster[214]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00362695544
+	2:leaf=0.0123681519
+booster[215]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00502278609
+	2:leaf=0.00952802133
+booster[216]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.0100527257
+	2:leaf=-0.00423596893
+booster[217]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0130962683
+	2:leaf=0.00337905111
+booster[218]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.0030124865
+	2:leaf=0.0132886469
+booster[219]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.016439626
+	2:leaf=0.002657854
+booster[220]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00328442338
+	2:leaf=0.0128376214
+booster[221]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0101376055
+	2:leaf=0.00410398189
+booster[222]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00368246878
+	2:leaf=0.0109302439
+booster[223]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0125013506
+	2:leaf=0.00329871662
+booster[224]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00530789373
+	2:leaf=0.00757668912
+booster[225]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00459603453
+	2:leaf=0.00876014587
+booster[226]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00986630004
+	2:leaf=-0.00413580006
+booster[227]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0158428047
+	2:leaf=0.00257646106
+booster[228]:
+0:[property<0.322282493] yes=1,no=2,missing=1
+	1:leaf=-0.00629226957
+	2:leaf=0.00600852817
+booster[229]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00750181219
+	2:leaf=0.00474169198
+booster[230]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00958179031
+	2:leaf=0.00373818469
+booster[231]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0082402844
+	2:leaf=0.00489219185
+booster[232]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0152239827
+	2:leaf=0.00223935209
+booster[233]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00329071842
+	2:leaf=0.0120263901
+booster[234]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00599577278
+	2:leaf=0.00599168101
+booster[235]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00777669111
+	2:leaf=0.00459025381
+booster[236]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00342028937
+	2:leaf=0.0116235679
+booster[237]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00416614953
+	2:leaf=0.00911456626
+booster[238]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0100087458
+	2:leaf=-0.00374380313
+booster[239]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0118634244
+	2:leaf=0.00306569156
+booster[240]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00909371208
+	2:leaf=0.00360310893
+booster[241]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0117943501
+	2:leaf=0.00297792326
+booster[242]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0091110263
+	2:leaf=0.00368829747
+booster[243]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00328505412
+	2:leaf=0.01091877
+booster[244]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.014871656
+	2:leaf=0.00224079564
+booster[245]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00365854497
+	2:leaf=0.00931353308
+booster[246]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00944772176
+	2:leaf=0.0035076756
+booster[247]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0045467387
+	2:leaf=0.0074015758
+booster[248]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00938343164
+	2:leaf=-0.00413748203
+booster[249]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00728712836
+	2:leaf=0.00463492936
+booster[250]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00837586541
+	2:leaf=-0.00394061953
+booster[251]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00443581911
+	2:leaf=0.00696297688
+booster[252]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0112132858
+	2:leaf=0.00291074067
+booster[253]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00335333683
+	2:leaf=0.00972226355
+booster[254]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0143140024
+	2:leaf=0.00224604504
+booster[255]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0138540985
+	2:leaf=0.00204406772
+booster[256]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00356869888
+	2:leaf=0.00912704691
+booster[257]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0106212609
+	2:leaf=0.00257609761
+booster[258]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00446418766
+	2:leaf=-0.00646816427
+booster[259]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00880053546
+	2:leaf=-0.00400558719
+booster[260]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0043943054
+	2:leaf=0.00803188886
+booster[261]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0072404705
+	2:leaf=0.00431167334
+booster[262]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00270826626
+	2:leaf=0.0122725898
+booster[263]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00854639336
+	2:leaf=-0.00363402138
+booster[264]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00253405888
+	2:leaf=0.0115214
+booster[265]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00385670736
+	2:leaf=0.00772136776
+booster[266]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0108827939
+	2:leaf=0.00291881943
+booster[267]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00854742434
+	2:leaf=0.00349771674
+booster[268]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00835850928
+	2:leaf=-0.00354287191
+booster[269]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.0023914997
+	2:leaf=0.0116259316
+booster[270]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00298163178
+	2:leaf=0.00942030735
+booster[271]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00652327156
+	2:leaf=0.00448748143
+booster[272]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00790578499
+	2:leaf=0.00334835774
+booster[273]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00268440577
+	2:leaf=0.00993161742
+booster[274]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00673388457
+	2:leaf=0.00436442206
+booster[275]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0133288773
+	2:leaf=0.0022309199
+booster[276]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00847626664
+	2:leaf=0.00329113821
+booster[277]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00667316699
+	2:leaf=0.00423452351
+booster[278]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0101210373
+	2:leaf=0.00254266197
+booster[279]:
+0:[purpose<0.401754498] yes=1,no=2,missing=1
+	1:leaf=-0.00387027557
+	2:leaf=0.00687945634
+booster[280]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0102203637
+	2:leaf=0.0024569619
+booster[281]:
+0:[credit_amount<1286] yes=1,no=2,missing=1
+	1:leaf=0.00881723594
+	2:leaf=-0.00327934697
+booster[282]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00435060775
+	2:leaf=0.00606565224
+booster[283]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00381592847
+	2:leaf=0.00711363927
+booster[284]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00772641366
+	2:leaf=-0.00332208513
+booster[285]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00305134617
+	2:leaf=0.00840074383
+booster[286]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00284661585
+	2:leaf=0.00875857752
+booster[287]:
+0:[installment_as_income_perc<3.5] yes=1,no=2,missing=1
+	1:leaf=-0.00478500267
+	2:leaf=0.00517833093
+booster[288]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00780887529
+	2:leaf=0.0031805865
+booster[289]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00222954783
+	2:leaf=0.0108647002
+booster[290]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00769276265
+	2:leaf=0.00325141777
+booster[291]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0127988011
+	2:leaf=0.00211373926
+booster[292]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0123921195
+	2:leaf=0.00192392897
+booster[293]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.009533857
+	2:leaf=0.00231992686
+booster[294]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00283559947
+	2:leaf=0.00927235652
+booster[295]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00604895735
+	2:leaf=0.00372808869
+booster[296]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00285825948
+	2:leaf=0.0080792075
+booster[297]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00610091863
+	2:leaf=0.00385115924
+booster[298]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00751895458
+	2:leaf=-0.00329680229
+booster[299]:
+0:[property<0.322282493] yes=1,no=2,missing=1
+	1:leaf=-0.00484245364
+	2:leaf=0.00465860497
+booster[300]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00608201837
+	2:leaf=0.00368998246
+booster[301]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00355459307
+	2:leaf=0.00666365726
+booster[302]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.011795518
+	2:leaf=0.0018552395
+booster[303]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00753970072
+	2:leaf=0.00287417555
+booster[304]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00761245703
+	2:leaf=0.00306562241
+booster[305]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00390238618
+	2:leaf=0.00575915584
+booster[306]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00756611628
+	2:leaf=-0.00303701847
+booster[307]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00256545912
+	2:leaf=0.00877044257
+booster[308]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00716616958
+	2:leaf=-0.00306758075
+booster[309]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0093665747
+	2:leaf=0.00239340239
+booster[310]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00220201956
+	2:leaf=0.010197835
+booster[311]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.01156855
+	2:leaf=0.00188000279
+booster[312]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.0022642219
+	2:leaf=0.00977641344
+booster[313]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0088359993
+	2:leaf=0.00237466046
+booster[314]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00258437428
+	2:leaf=0.00753416494
+booster[315]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00391992694
+	2:leaf=-0.00526963314
+booster[316]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00175738602
+	2:leaf=0.0117489006
+booster[317]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00436469354
+	2:leaf=0.00471130433
+booster[318]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00691462914
+	2:leaf=-0.00283289026
+booster[319]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00319156284
+	2:leaf=0.00640975777
+booster[320]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00579477567
+	2:leaf=0.00376025098
+booster[321]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00892015081
+	2:leaf=0.00244805962
+booster[322]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00663187867
+	2:leaf=0.00286440412
+booster[323]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00303429831
+	2:leaf=0.0066503319
+booster[324]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0111941816
+	2:leaf=0.00180637429
+booster[325]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00271391612
+	2:leaf=0.00726296334
+booster[326]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00169708452
+	2:leaf=0.0112476675
+booster[327]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00330366171
+	2:leaf=0.00590885384
+booster[328]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00686299149
+	2:leaf=0.00286705978
+booster[329]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00852750987
+	2:leaf=0.00227629696
+booster[330]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.0087604532
+	2:leaf=0.00218021846
+booster[331]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0108475108
+	2:leaf=0.00163245562
+booster[332]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00846385118
+	2:leaf=0.00205564382
+booster[333]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00652908767
+	2:leaf=-0.00307241455
+booster[334]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00547331525
+	2:leaf=0.00328072207
+booster[335]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00719519285
+	2:leaf=0.0025885161
+booster[336]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00547574414
+	2:leaf=0.00323132472
+booster[337]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00876570959
+	2:leaf=-0.00218869164
+booster[338]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00173246523
+	2:leaf=0.0108014457
+booster[339]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00657530595
+	2:leaf=0.002609296
+booster[340]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00240285741
+	2:leaf=0.00696123904
+booster[341]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.00825315062
+	2:leaf=0.00207289844
+booster[342]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00205652206
+	2:leaf=0.00881971791
+booster[343]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00346211577
+	2:leaf=0.00500375405
+booster[344]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0079536112
+	2:leaf=0.00214784243
+booster[345]:
+0:[age<34.5] yes=1,no=2,missing=1
+	1:leaf=0.00349791022
+	2:leaf=-0.00480853254
+booster[346]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0104456386
+	2:leaf=0.00161201938
+booster[347]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00340093113
+	2:leaf=0.00505729113
+booster[348]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00227296329
+	2:leaf=0.00762595236
+booster[349]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00555236405
+	2:leaf=0.00334520009
+booster[350]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00214355788
+	2:leaf=0.00827839505
+booster[351]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00241476716
+	2:leaf=0.00659833802
+booster[352]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00514352648
+	2:leaf=0.00322224805
+booster[353]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0101301502
+	2:leaf=0.00163988944
+booster[354]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00635522697
+	2:leaf=-0.00279779546
+booster[355]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00809303578
+	2:leaf=0.00208733091
+booster[356]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00629777182
+	2:leaf=-0.00249134237
+booster[357]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00210222509
+	2:leaf=0.00730162999
+booster[358]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00487452187
+	2:leaf=0.00317332894
+booster[359]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00295568793
+	2:leaf=0.00563732302
+booster[360]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00742986053
+	2:leaf=0.00201317901
+booster[361]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00653716689
+	2:leaf=0.00250833831
+booster[362]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00977556314
+	2:leaf=0.00148299022
+booster[363]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.0059749214
+	2:leaf=-0.0027466754
+booster[364]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00271070655
+	2:leaf=0.00566429412
+booster[365]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00185926037
+	2:leaf=0.00795778167
+booster[366]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0107571166
+	2:leaf=0.00145330245
+booster[367]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00392827345
+	2:leaf=0.0039055855
+booster[368]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00946416892
+	2:leaf=0.00142053445
+booster[369]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.00763403857
+	2:leaf=0.00173971732
+booster[370]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00170036999
+	2:leaf=0.0099781435
+booster[371]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00496109668
+	2:leaf=0.0028910439
+booster[372]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00767691759
+	2:leaf=0.00187898986
+booster[373]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00551279029
+	2:leaf=0.00298563694
+booster[374]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00619496824
+	2:leaf=0.00226097438
+booster[375]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00613461155
+	2:leaf=0.00214420096
+booster[376]:
+0:[purpose<0.401754498] yes=1,no=2,missing=1
+	1:leaf=-0.00299243047
+	2:leaf=0.0050609014
+booster[377]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00730133662
+	2:leaf=0.00174902659
+booster[378]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00214241957
+	2:leaf=0.00670211902
+booster[379]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0092576053
+	2:leaf=0.00132086524
+booster[380]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00287958444
+	2:leaf=-0.00477659889
+booster[381]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00471915724
+	2:leaf=0.00271229772
+booster[382]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00410845829
+	2:leaf=-0.00384817435
+booster[383]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00586938998
+	2:leaf=0.00226370967
+booster[384]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0029727323
+	2:leaf=0.00511804922
+booster[385]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00798896328
+	2:leaf=-0.00197915989
+booster[386]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00294068106
+	2:leaf=0.00442931009
+booster[387]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0107565802
+	2:leaf=0.00138464861
+booster[388]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00736449612
+	2:leaf=0.00174592121
+booster[389]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00165114016
+	2:leaf=0.00965943839
+booster[390]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0105304252
+	2:leaf=0.00132102973
+booster[391]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00227095163
+	2:leaf=0.00609314581
+booster[392]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00200945977
+	2:leaf=0.00665129116
+booster[393]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00472925277
+	2:leaf=0.00265458762
+booster[394]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00403588172
+	2:leaf=-0.00356813264
+booster[395]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0104184477
+	2:leaf=0.00133433694
+booster[396]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00777893746
+	2:leaf=-0.00192144222
+booster[397]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00282211066
+	2:leaf=0.00516559323
+booster[398]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0103060193
+	2:leaf=0.00133963395
+booster[399]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00469642598
+	2:leaf=0.0026708981
+booster[400]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00316904928
+	2:leaf=0.00423361547
+booster[401]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00154073804
+	2:leaf=0.00946399942
+booster[402]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00210582768
+	2:leaf=0.00571168726
+booster[403]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00236755796
+	2:leaf=0.00522883749
+booster[404]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00292917062
+	2:leaf=-0.00428220863
+booster[405]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00404153159
+	2:leaf=-0.00340311485
+booster[406]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00907463022
+	2:leaf=0.00147561519
+booster[407]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0101723233
+	2:leaf=0.00131470582
+booster[408]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00697935233
+	2:leaf=0.00165978749
+booster[409]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00182758027
+	2:leaf=0.00720455591
+booster[410]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00338683906
+	2:leaf=0.00329870218
+booster[411]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00536521105
+	2:leaf=-0.0021693022
+booster[412]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0100716259
+	2:leaf=0.00129909371
+booster[413]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00451484276
+	2:leaf=0.00268209376
+booster[414]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00204503187
+	2:leaf=0.00667429855
+booster[415]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00881702453
+	2:leaf=0.00131566927
+booster[416]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00781617593
+	2:leaf=-0.0019311792
+booster[417]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0054442347
+	2:leaf=0.00206964114
+booster[418]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00278373575
+	2:leaf=0.00454612402
+booster[419]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00997110642
+	2:leaf=0.00126443012
+booster[420]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00220656721
+	2:leaf=0.00543679437
+booster[421]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00687478064
+	2:leaf=0.00170929509
+booster[422]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00566314626
+	2:leaf=0.00200908305
+booster[423]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00751515338
+	2:leaf=-0.00189037644
+booster[424]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00736016035
+	2:leaf=0.00151879003
+booster[425]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00989888515
+	2:leaf=0.00117868639
+booster[426]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00669307122
+	2:leaf=0.00148528628
+booster[427]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00203544321
+	2:leaf=0.00692425808
+booster[428]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00655671209
+	2:leaf=0.00154097727
+booster[429]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00367836328
+	2:leaf=-0.00350108533
+booster[430]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0044148555
+	2:leaf=0.00253929966
+booster[431]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00517150667
+	2:leaf=0.00195316109
+booster[432]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00866486225
+	2:leaf=0.00116301118
+booster[433]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00204380602
+	2:leaf=0.00616700202
+booster[434]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00173592591
+	2:leaf=0.00671434496
+booster[435]:
+0:[duration_in_month<11.5] yes=1,no=2,missing=1
+	1:leaf=-0.00662688399
+	2:leaf=0.00151990692
+booster[436]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00732683251
+	2:leaf=-0.00183893833
+booster[437]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00975039136
+	2:leaf=0.00122002733
+booster[438]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.002128653
+	2:leaf=0.00568874693
+booster[439]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0043475721
+	2:leaf=0.00247778371
+booster[440]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00265669823
+	2:leaf=0.00471741846
+booster[441]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00470334245
+	2:leaf=-0.0023048413
+booster[442]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00712854881
+	2:leaf=0.00151401106
+booster[443]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00434793858
+	2:leaf=0.00236018677
+booster[444]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00253578718
+	2:leaf=0.00407407712
+booster[445]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00180042896
+	2:leaf=0.00595686119
+booster[446]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00254370505
+	2:leaf=-0.00390196708
+booster[447]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00269508595
+	2:leaf=0.00374493422
+booster[448]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00964013394
+	2:leaf=0.00126504235
+booster[449]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.003642597
+	2:leaf=-0.0033093465
+booster[450]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00262864283
+	2:leaf=0.00472032232
+booster[451]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00946458988
+	2:leaf=0.00120305852
+booster[452]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00717155728
+	2:leaf=-0.0017887943
+booster[453]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0041323239
+	2:leaf=0.00240015984
+booster[454]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00142134388
+	2:leaf=0.00881957542
+booster[455]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00837567728
+	2:leaf=0.0013311744
+booster[456]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00183438067
+	2:leaf=0.00618601218
+booster[457]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00392488437
+	2:leaf=0.0024677373
+booster[458]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00633424474
+	2:leaf=0.00160831516
+booster[459]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00813312922
+	2:leaf=0.00120868022
+booster[460]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0078843236
+	2:leaf=0.00110071711
+booster[461]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00350581785
+	2:leaf=-0.0033364275
+booster[462]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00949487742
+	2:leaf=0.00109505083
+booster[463]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00154183281
+	2:leaf=0.00851582456
+booster[464]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00199483288
+	2:leaf=0.00535375951
+booster[465]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00928713288
+	2:leaf=0.00114693702
+booster[466]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00185624568
+	2:leaf=0.00584472064
+booster[467]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00668397872
+	2:leaf=0.0013471907
+booster[468]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00517008407
+	2:leaf=0.00180436356
+booster[469]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00615008734
+	2:leaf=0.00143425865
+booster[470]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00693724444
+	2:leaf=-0.00180531875
+booster[471]:
+0:[present_emp_since<0.315827996] yes=1,no=2,missing=1
+	1:leaf=-0.00388926826
+	2:leaf=0.00236633956
+booster[472]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00175801327
+	2:leaf=0.00560801756
+booster[473]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00630439213
+	2:leaf=0.0012974306
+booster[474]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00258797221
+	2:leaf=0.00457247999
+booster[475]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00920407288
+	2:leaf=0.00114316889
+booster[476]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00421648799
+	2:leaf=0.0021969832
+booster[477]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.0019150736
+	2:leaf=0.00503369654
+booster[478]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00401192438
+	2:leaf=0.00225837389
+booster[479]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163980888
+	2:leaf=0.00701325713
+booster[480]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00905320514
+	2:leaf=0.00115806831
+booster[481]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.004983766
+	2:leaf=-0.00232266216
+booster[482]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00897090882
+	2:leaf=0.00111086015
+booster[483]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00672614295
+	2:leaf=-0.00171141792
+booster[484]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00169502373
+	2:leaf=0.00558166625
+booster[485]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00147644558
+	2:leaf=0.00626734039
+booster[486]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00890732743
+	2:leaf=0.00120713364
+booster[487]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00472132908
+	2:leaf=-0.0019042613
+booster[488]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00777408108
+	2:leaf=0.00119770272
+booster[489]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0057248692
+	2:leaf=0.00140899373
+booster[490]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00244367868
+	2:leaf=0.00427123392
+booster[491]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00343749556
+	2:leaf=-0.00311851664
+booster[492]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00878982525
+	2:leaf=0.00109110645
+booster[493]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00488078129
+	2:leaf=0.00173335837
+booster[494]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00139766373
+	2:leaf=0.0080334004
+booster[495]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00655381382
+	2:leaf=-0.00158906728
+booster[496]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00301199942
+	2:leaf=0.00304058101
+booster[497]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00877297577
+	2:leaf=0.00115466665
+booster[498]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00236445572
+	2:leaf=0.00420761527
+booster[499]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00386343966
+	2:leaf=0.00235003256
+booster[500]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00383221521
+	2:leaf=0.00220599957
+booster[501]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00332907937
+	2:leaf=-0.00300662452
+booster[502]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00477738678
+	2:leaf=0.00175322429
+booster[503]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00248859264
+	2:leaf=0.00366151263
+booster[504]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00859244075
+	2:leaf=0.00107624556
+booster[505]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00588865159
+	2:leaf=0.00136147346
+booster[506]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.0013715378
+	2:leaf=0.00782496762
+booster[507]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0064002811
+	2:leaf=-0.00156206859
+booster[508]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00758167449
+	2:leaf=0.00116850284
+booster[509]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.0022412322
+	2:leaf=-0.00359364762
+booster[510]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00169123581
+	2:leaf=0.00554028107
+booster[511]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00734918658
+	2:leaf=0.00111285155
+booster[512]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0085678203
+	2:leaf=0.0010390291
+booster[513]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0083956616
+	2:leaf=0.000946055457
+booster[514]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00621482451
+	2:leaf=-0.00167852268
+booster[515]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00221088412
+	2:leaf=0.00432759291
+booster[516]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00179134333
+	2:leaf=0.00481833657
+booster[517]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00370064122
+	2:leaf=0.00222683814
+booster[518]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00323632848
+	2:leaf=-0.00292958668
+booster[519]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00832711812
+	2:leaf=0.0010407673
+booster[520]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00451907795
+	2:leaf=0.00173126708
+booster[521]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00233027968
+	2:leaf=0.00398609182
+booster[522]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163083209
+	2:leaf=0.0052185934
+booster[523]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00317295711
+	2:leaf=-0.00285391486
+booster[524]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00616071839
+	2:leaf=0.00128628977
+booster[525]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00126106839
+	2:leaf=0.0075759152
+booster[526]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00721567729
+	2:leaf=0.00111250149
+booster[527]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00290261558
+	2:leaf=0.00280654547
+booster[528]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00199820986
+	2:leaf=0.00409816578
+booster[529]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00450349413
+	2:leaf=0.00171638431
+booster[530]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0081866011
+	2:leaf=0.00102340162
+booster[531]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00168675592
+	2:leaf=0.00531525677
+booster[532]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00153992197
+	2:leaf=0.00503701856
+booster[533]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00618835492
+	2:leaf=-0.0014609996
+booster[534]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00812798273
+	2:leaf=0.00110373925
+booster[535]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00569071295
+	2:leaf=0.00140510744
+booster[536]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00169135618
+	2:leaf=0.00460558292
+booster[537]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00707872678
+	2:leaf=0.00105907244
+booster[538]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00359413587
+	2:leaf=0.00210515666
+booster[539]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00143982074
+	2:leaf=0.00572292088
+booster[540]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0053064744
+	2:leaf=0.00134001311
+booster[541]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00276513258
+	2:leaf=0.00264946697
+booster[542]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00356001966
+	2:leaf=0.00202391366
+booster[543]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00592646794
+	2:leaf=0.00119803718
+booster[544]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00160053081
+	2:leaf=0.00569343055
+booster[545]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00209049578
+	2:leaf=-0.00333124958
+booster[546]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00538975187
+	2:leaf=0.00130341132
+booster[547]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00599378301
+	2:leaf=-0.00149965007
+booster[548]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00683780713
+	2:leaf=0.00102293177
+booster[549]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00815967936
+	2:leaf=0.00098235067
+booster[550]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00161474664
+	2:leaf=0.00491998857
+booster[551]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00799416658
+	2:leaf=0.000948438828
+booster[552]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00668184459
+	2:leaf=0.000864614383
+booster[553]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00146450673
+	2:leaf=0.00531512499
+booster[554]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00376741285
+	2:leaf=0.00193722511
+booster[555]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00159221201
+	2:leaf=0.00490429997
+booster[556]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00644282252
+	2:leaf=0.000997620751
+booster[557]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00229537277
+	2:leaf=0.00321236881
+booster[558]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00510927755
+	2:leaf=0.00120683841
+booster[559]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00298337196
+	2:leaf=-0.00283831242
+booster[560]:
+0:[present_emp_since<0.315827996] yes=1,no=2,missing=1
+	1:leaf=-0.00333343307
+	2:leaf=0.0019787862
+booster[561]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00404764898
+	2:leaf=0.00153062621
+booster[562]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00198411522
+	2:leaf=0.00385564868
+booster[563]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00121938938
+	2:leaf=0.00720822811
+booster[564]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00778662926
+	2:leaf=0.00100372185
+booster[565]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00566279283
+	2:leaf=0.00112444477
+booster[566]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00150123681
+	2:leaf=0.00465867762
+booster[567]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00263782055
+	2:leaf=0.00251638074
+booster[568]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00591627043
+	2:leaf=-0.00145138393
+booster[569]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00213782373
+	2:leaf=0.00394759839
+booster[570]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00336137298
+	2:leaf=0.00201706868
+booster[571]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00776004279
+	2:leaf=0.00102165085
+booster[572]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00659243856
+	2:leaf=0.000950273767
+booster[573]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00402719807
+	2:leaf=-0.00173321145
+booster[574]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00764692947
+	2:leaf=0.000924556458
+booster[575]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00151866151
+	2:leaf=0.00463639712
+booster[576]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00410621567
+	2:leaf=0.00147970463
+booster[577]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00205506268
+	2:leaf=0.00320421322
+booster[578]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0048544528
+	2:leaf=0.00117391907
+booster[579]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0049957945
+	2:leaf=0.00114591781
+booster[580]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00332043623
+	2:leaf=0.00186730886
+booster[581]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00540574407
+	2:leaf=0.00101477362
+booster[582]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00431929575
+	2:leaf=0.0014357178
+booster[583]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00580527121
+	2:leaf=-0.00154819794
+booster[584]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00159286743
+	2:leaf=0.00419474021
+booster[585]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00761724776
+	2:leaf=0.000931516872
+booster[586]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00286946958
+	2:leaf=-0.0027295656
+booster[587]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00169434864
+	2:leaf=0.00407873793
+booster[588]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.0012537986
+	2:leaf=0.00501199672
+booster[589]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00191339944
+	2:leaf=-0.00299721002
+booster[590]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00207954645
+	2:leaf=0.00378080434
+booster[591]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0064035356
+	2:leaf=0.000985148246
+booster[592]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00322211045
+	2:leaf=0.00182485045
+booster[593]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00143267924
+	2:leaf=0.00464442186
+booster[594]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00149268273
+	2:leaf=0.00389484013
+booster[595]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00321417721
+	2:leaf=0.00182446034
+booster[596]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00294345059
+	2:leaf=-0.00258478313
+booster[597]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00755178323
+	2:leaf=0.00099604344
+booster[598]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.0021012302
+	2:leaf=0.00279078563
+booster[599]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00601604627
+	2:leaf=0.000969042245
+booster[600]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00629659137
+	2:leaf=0.000876047765
+booster[601]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00143410859
+	2:leaf=0.00583270565
+booster[602]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00138411368
+	2:leaf=0.00443038344
+booster[603]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00565593923
+	2:leaf=-0.00135763036
+booster[604]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00743752345
+	2:leaf=0.000997180003
+booster[605]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00510790478
+	2:leaf=0.00104274799
+booster[606]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00476454152
+	2:leaf=0.00111307635
+booster[607]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00153206184
+	2:leaf=0.00401013996
+booster[608]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00208066381
+	2:leaf=0.00367420912
+booster[609]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.0049395063
+	2:leaf=0.00100963749
+booster[610]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00307923579
+	2:leaf=0.00170976517
+booster[611]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00114241452
+	2:leaf=0.00677253027
+booster[612]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00729511399
+	2:leaf=0.000946871762
+booster[613]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00388371432
+	2:leaf=0.00137687102
+booster[614]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00610439666
+	2:leaf=0.000848121766
+booster[615]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00379203307
+	2:leaf=0.00129665679
+booster[616]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00550543424
+	2:leaf=-0.00144788681
+booster[617]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0031212715
+	2:leaf=0.00181171484
+booster[618]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0036473216
+	2:leaf=-0.00155295909
+booster[619]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00592663046
+	2:leaf=0.000858754385
+booster[620]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.0027677312
+	2:leaf=-0.00259397388
+booster[621]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00136385148
+	2:leaf=0.00431945687
+booster[622]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00692805881
+	2:leaf=0.000980332727
+booster[623]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00460199732
+	2:leaf=0.00108699768
+booster[624]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00205474091
+	2:leaf=0.00349030807
+booster[625]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.0024183651
+	2:leaf=0.00225501764
+booster[626]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00136919064
+	2:leaf=0.00412029587
+booster[627]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00195858907
+	2:leaf=0.00289737387
+booster[628]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00545691466
+	2:leaf=-0.00130518363
+booster[629]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00445040734
+	2:leaf=0.00115400681
+booster[630]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00726325298
+	2:leaf=0.000945449632
+booster[631]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00140934426
+	2:leaf=0.00377983972
+booster[632]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00125489279
+	2:leaf=0.0039082584
+booster[633]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00710771326
+	2:leaf=0.000931151619
+booster[634]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00561067043
+	2:leaf=0.000879188708
+booster[635]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00577877974
+	2:leaf=0.000780152157
+booster[636]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.0013801473
+	2:leaf=0.0041139191
+booster[637]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00131185201
+	2:leaf=0.0040718969
+booster[638]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00278182863
+	2:leaf=-0.00253647915
+booster[639]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163711549
+	2:leaf=0.00333393738
+booster[640]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00535501586
+	2:leaf=-0.00127751415
+booster[641]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00287437136
+	2:leaf=0.00181818183
+booster[642]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.0018673538
+	2:leaf=-0.00284163631
+booster[643]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00662617246
+	2:leaf=0.000985599007
+booster[644]:
+0:[present_emp_since<0.315827996] yes=1,no=2,missing=1
+	1:leaf=-0.00279208249
+	2:leaf=0.00172036234
+booster[645]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00287886593
+	2:leaf=0.00172062486
+booster[646]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00387931475
+	2:leaf=-0.00178958755
+booster[647]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00540125882
+	2:leaf=0.000882327673
+booster[648]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00108962948
+	2:leaf=0.00649990747
+booster[649]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00346232997
+	2:leaf=0.0014312024
+booster[650]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00563027477
+	2:leaf=0.00084591296
+booster[651]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00113244774
+	2:leaf=0.00449907035
+booster[652]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00690857274
+	2:leaf=0.000885905523
+booster[653]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00524922833
+	2:leaf=-0.00132003776
+booster[654]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00292781251
+	2:leaf=0.00160724379
+booster[655]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00656292075
+	2:leaf=0.000931341026
+booster[656]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00136696489
+	2:leaf=0.00359389861
+booster[657]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00123398227
+	2:leaf=0.00531827239
+booster[658]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00514827482
+	2:leaf=0.000864099653
+booster[659]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00425840169
+	2:leaf=0.00105607626
+booster[660]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00470815413
+	2:leaf=0.000929475587
+booster[661]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00127741427
+	2:leaf=0.00393732497
+booster[662]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00266475859
+	2:leaf=-0.00244267611
+booster[663]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00219786819
+	2:leaf=0.00210494502
+booster[664]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00193476514
+	2:leaf=0.0034690008
+booster[665]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00673616538
+	2:leaf=0.00086498569
+booster[666]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00419324497
+	2:leaf=0.000972193957
+booster[667]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0029331164
+	2:leaf=0.0015886639
+booster[668]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.0012686135
+	2:leaf=0.00389746926
+booster[669]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.00138374302
+	2:leaf=0.00340510323
+booster[670]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00517858332
+	2:leaf=-0.00124923373
+booster[671]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00171976665
+	2:leaf=-0.00261967047
+booster[672]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00114247063
+	2:leaf=0.00390993385
+booster[673]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00110750168
+	2:leaf=0.00371696544
+booster[674]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00338933989
+	2:leaf=0.00136139663
+booster[675]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00330405938
+	2:leaf=0.00132346665
+booster[676]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00636807829
+	2:leaf=0.000959380239
+booster[677]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00324939634
+	2:leaf=-0.00134089252
+booster[678]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00266240467
+	2:leaf=0.00162583066
+booster[679]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00267881225
+	2:leaf=-0.00238387287
+booster[680]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00397940027
+	2:leaf=0.000991503941
+booster[681]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00104044273
+	2:leaf=0.00423081545
+booster[682]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00556430407
+	2:leaf=0.000861158129
+booster[683]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00539824506
+	2:leaf=0.000784469477
+booster[684]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00118558842
+	2:leaf=0.0036723034
+booster[685]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00101680669
+	2:leaf=0.00615560403
+booster[686]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00167626888
+	2:leaf=0.00258015445
+booster[687]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00398503849
+	2:leaf=0.00106318982
+booster[688]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00209106971
+	2:leaf=0.00207323255
+booster[689]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00665147929
+	2:leaf=0.000871518452
+booster[690]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00451260479
+	2:leaf=0.000897788443
+booster[691]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00527683133
+	2:leaf=0.000717226125
+booster[692]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00501838187
+	2:leaf=-0.00132017862
+booster[693]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00267090066
+	2:leaf=0.00146977021
+booster[694]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00269350666
+	2:leaf=0.00155048957
+booster[695]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00186992774
+	2:leaf=0.00325488602
+booster[696]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00255573355
+	2:leaf=-0.00233605271
+booster[697]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.0062946002
+	2:leaf=0.000886228518
+booster[698]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00490128063
+	2:leaf=-0.00125494215
+booster[699]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00625684345
+	2:leaf=0.000880659674
+booster[700]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00130686944
+	2:leaf=0.00460357079
+booster[701]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.0047985022
+	2:leaf=0.000758608046
+booster[702]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00221726182
+	2:leaf=-0.00202821475
+booster[703]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00161895703
+	2:leaf=0.00254407199
+booster[704]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00315680215
+	2:leaf=0.00124329247
+booster[705]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00484153023
+	2:leaf=-0.00120711082
+booster[706]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00511509879
+	2:leaf=0.000772743835
+booster[707]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00652076164
+	2:leaf=0.000800583046
+booster[708]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00102701364
+	2:leaf=0.005816916
+booster[709]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.00127651775
+	2:leaf=0.00322448579
+booster[710]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00125066692
+	2:leaf=0.00351220043
+booster[711]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00264751515
+	2:leaf=0.00150316954
+booster[712]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00106744037
+	2:leaf=0.00361656514
+booster[713]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00422776863
+	2:leaf=0.000937502773
+booster[714]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00156739261
+	2:leaf=-0.0024383869
+booster[715]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00390886469
+	2:leaf=0.00100453873
+booster[716]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00254241726
+	2:leaf=0.00144292449
+booster[717]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000989003223
+	2:leaf=0.00398439867
+booster[718]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00217016763
+	2:leaf=-0.00186275318
+booster[719]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00500213774
+	2:leaf=0.000772211817
+booster[720]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00137651619
+	2:leaf=0.00278195459
+booster[721]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00604395242
+	2:leaf=0.000873405195
+booster[722]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.0012443302
+	2:leaf=0.00330619514
+booster[723]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00378781906
+	2:leaf=0.000941032951
+booster[724]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00202089874
+	2:leaf=-0.00183380488
+booster[725]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00246759201
+	2:leaf=-0.0022573804
+booster[726]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00113079592
+	2:leaf=0.00348275225
+booster[727]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00168697629
+	2:leaf=0.00231914409
+booster[728]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00104550587
+	2:leaf=0.00354014337
+booster[729]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00241014827
+	2:leaf=0.00152711663
+booster[730]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00302120484
+	2:leaf=0.00118684245
+booster[731]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00305834226
+	2:leaf=0.00115387409
+booster[732]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00490026502
+	2:leaf=0.000736988615
+booster[733]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00482979696
+	2:leaf=-0.00119820493
+booster[734]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00637779618
+	2:leaf=0.000830587
+booster[735]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00377097051
+	2:leaf=0.000877821294
+booster[736]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00179462077
+	2:leaf=0.00309098675
+booster[737]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00294748857
+	2:leaf=-0.00125403248
+booster[738]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00242960337
+	2:leaf=-0.00219792291
+booster[739]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00106001634
+	2:leaf=0.00347584602
+booster[740]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00368278264
+	2:leaf=0.000962326594
+booster[741]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00455766357
+	2:leaf=0.000742451113
+booster[742]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00406818558
+	2:leaf=0.00080511393
+booster[743]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00626349682
+	2:leaf=0.00073838135
+booster[744]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00480749412
+	2:leaf=0.000601118023
+booster[745]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00463924464
+	2:leaf=-0.00127032574
+booster[746]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.0016337022
+	2:leaf=0.00224087201
+booster[747]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00466352468
+	2:leaf=0.000625394925
+booster[748]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00120734703
+	2:leaf=0.00302328053
+booster[749]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00109005428
+	2:leaf=0.00334740989
+booster[750]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00107376778
+	2:leaf=0.00325871445
+booster[751]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00591815775
+	2:leaf=0.000855410879
+booster[752]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00173314509
+	2:leaf=0.0030223073
+booster[753]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00244870014
+	2:leaf=0.00130777562
+booster[754]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00465848064
+	2:leaf=-0.00115231017
+booster[755]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00585467415
+	2:leaf=0.000860042695
+booster[756]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00199421356
+	2:leaf=-0.0018011753
+booster[757]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00195543235
+	2:leaf=0.00186515728
+booster[758]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00234533148
+	2:leaf=0.001384011
+booster[759]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00237441692
+	2:leaf=-0.00216358458
+booster[760]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00128915778
+	2:leaf=0.00261230022
+booster[761]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00390429283
+	2:leaf=0.000817936205
+booster[762]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00456132507
+	2:leaf=0.000655720767
+booster[763]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000967942644
+	2:leaf=0.00372646446
+booster[764]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00236280495
+	2:leaf=0.0013354806
+booster[765]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00609210227
+	2:leaf=0.000759066839
+booster[766]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00360643934
+	2:leaf=0.000831419253
+booster[767]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00117284385
+	2:leaf=0.00295178639
+booster[768]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.00104698993
+	2:leaf=0.00322317961
+booster[769]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00455787638
+	2:leaf=-0.00112248282
+booster[770]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00575717492
+	2:leaf=0.000850515615
+booster[771]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00281870458
+	2:leaf=0.00109973107
+booster[772]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000943717489
+	2:leaf=0.00559026701
+booster[773]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00353954663
+	2:leaf=0.000889505667
+booster[774]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0044573443
+	2:leaf=0.000654700794
+booster[775]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00596920354
+	2:leaf=0.000721037737
+booster[776]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00108082895
+	2:leaf=0.0032099043
+booster[777]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00187104009
+	2:leaf=0.00172567181
+booster[778]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.0013262342
+	2:leaf=-0.0022130392
+booster[779]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00184871617
+	2:leaf=-0.00169819035
+booster[780]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00349567388
+	2:leaf=0.000844608643
+booster[781]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00447556423
+	2:leaf=-0.00113850576
+booster[782]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00179448293
+	2:leaf=-0.00159318955
+booster[783]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00138203765
+	2:leaf=0.00225274544
+booster[784]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0016328916
+	2:leaf=0.00298989308
+booster[785]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00139491959
+	2:leaf=0.00213554851
+booster[786]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00430603977
+	2:leaf=0.00068030227
+booster[787]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00559782935
+	2:leaf=0.000807594683
+booster[788]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0026418434
+	2:leaf=-0.00114105898
+booster[789]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00421994738
+	2:leaf=0.000665016938
+booster[790]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000912866381
+	2:leaf=0.00351258414
+booster[791]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00278255809
+	2:leaf=0.00102448394
+booster[792]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00101693638
+	2:leaf=0.00307961693
+booster[793]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00373433204
+	2:leaf=0.000776634028
+booster[794]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00337261218
+	2:leaf=0.000823593989
+booster[795]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00229702541
+	2:leaf=-0.00213487609
+booster[796]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.00106957136
+	2:leaf=0.00454852171
+booster[797]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00579621969
+	2:leaf=0.000753556902
+booster[798]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00231886166
+	2:leaf=0.00127740472
+booster[799]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00150098384
+	2:leaf=0.00193828181
+booster[800]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00101497944
+	2:leaf=0.00322863762
+booster[801]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.0021859135
+	2:leaf=0.00131437066
+booster[802]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00333821937
+	2:leaf=0.000814426516
+booster[803]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00277076359
+	2:leaf=0.000985920313
+booster[804]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00423155446
+	2:leaf=0.000588882773
+booster[805]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000992509769
+	2:leaf=0.00299136597
+booster[806]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00447727973
+	2:leaf=-0.00111644552
+booster[807]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000923410931
+	2:leaf=0.00306081725
+booster[808]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00545378355
+	2:leaf=0.000821642752
+booster[809]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0025504285
+	2:leaf=0.00100759498
+booster[810]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.0017261639
+	2:leaf=-0.00155970745
+booster[811]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00435717497
+	2:leaf=-0.00106708508
+booster[812]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00574752642
+	2:leaf=0.000763350399
+booster[813]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000883704692
+	2:leaf=0.00530073466
+booster[814]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00352993095
+	2:leaf=0.000761060452
+booster[815]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0015559477
+	2:leaf=0.00281628082
+booster[816]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00219254405
+	2:leaf=0.00128583796
+booster[817]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00225935853
+	2:leaf=-0.00200703251
+booster[818]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00536158634
+	2:leaf=0.000789513288
+booster[819]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00108862657
+	2:leaf=0.0029238367
+booster[820]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00212438754
+	2:leaf=0.00127008522
+booster[821]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00432091719
+	2:leaf=-0.00104857946
+booster[822]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00396230491
+	2:leaf=0.000678290671
+booster[823]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00558222737
+	2:leaf=0.000714300608
+booster[824]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0041796458
+	2:leaf=0.000570361968
+booster[825]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00301183271
+	2:leaf=-0.00146423746
+booster[826]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00098215614
+	2:leaf=0.00288322731
+booster[827]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00165683113
+	2:leaf=0.00157173467
+booster[828]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00222793571
+	2:leaf=0.0011985543
+booster[829]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00323222135
+	2:leaf=0.000794753141
+booster[830]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00158883247
+	2:leaf=0.00277679297
+booster[831]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00522533571
+	2:leaf=0.000732755521
+booster[832]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0024932099
+	2:leaf=-0.00110052479
+booster[833]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00101760624
+	2:leaf=0.00269638887
+booster[834]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00170954037
+	2:leaf=-0.00151904009
+booster[835]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0042085601
+	2:leaf=-0.0010170053
+booster[836]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00551838707
+	2:leaf=0.000745091762
+booster[837]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000837404688
+	2:leaf=0.00508622546
+booster[838]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00342830643
+	2:leaf=0.00075005769
+booster[839]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00404911302
+	2:leaf=0.000610897201
+booster[840]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000840785098
+	2:leaf=0.00333903404
+booster[841]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00309514138
+	2:leaf=0.000791597296
+booster[842]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00313307974
+	2:leaf=0.000753383792
+booster[843]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00208654627
+	2:leaf=-0.00192910002
+booster[844]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00119367684
+	2:leaf=0.00238443771
+booster[845]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00256667007
+	2:leaf=0.000955481548
+booster[846]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00516069168
+	2:leaf=0.000725969265
+booster[847]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00406061439
+	2:leaf=-0.00104472262
+booster[848]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0009380962
+	2:leaf=0.0030217513
+booster[849]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000877727696
+	2:leaf=0.00278103142
+booster[850]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00539778685
+	2:leaf=0.000728735467
+booster[851]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00204970129
+	2:leaf=0.00120836671
+booster[852]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00163214491
+	2:leaf=-0.00146620593
+booster[853]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000984274549
+	2:leaf=0.00269306265
+booster[854]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0039741369
+	2:leaf=0.000604981964
+booster[855]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00128792634
+	2:leaf=0.00186224503
+booster[856]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00371796708
+	2:leaf=0.000595053949
+booster[857]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000812853978
+	2:leaf=0.00316589326
+booster[858]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00155160495
+	2:leaf=0.00149784086
+booster[859]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000888519571
+	2:leaf=0.00291835959
+booster[860]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00179496349
+	2:leaf=-0.00220894953
+booster[861]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00081744662
+	2:leaf=0.00276293117
+booster[862]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00193136733
+	2:leaf=0.00117246911
+booster[863]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00295091211
+	2:leaf=0.0007872844
+booster[864]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00152534957
+	2:leaf=0.0028026381
+booster[865]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00331775704
+	2:leaf=0.000720808108
+booster[866]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00160877244
+	2:leaf=-0.00140984089
+booster[867]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00119537255
+	2:leaf=-0.00188201142
+booster[868]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000857018225
+	2:leaf=0.00269109057
+booster[869]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.000931860995
+	2:leaf=0.00247623934
+booster[870]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.00112411834
+	2:leaf=0.00193921383
+booster[871]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0038589132
+	2:leaf=0.000630643626
+booster[872]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0040516099
+	2:leaf=-0.000955837953
+booster[873]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00285199331
+	2:leaf=0.000780281436
+booster[874]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00505681802
+	2:leaf=0.000761293049
+booster[875]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00103777985
+	2:leaf=0.00381783186
+booster[876]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00295983767
+	2:leaf=0.000748155056
+booster[877]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00174728537
+	2:leaf=-0.00220529083
+booster[878]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000919445825
+	2:leaf=0.00253551733
+booster[879]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00145634857
+	2:leaf=0.00268740789
+booster[880]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00524040591
+	2:leaf=0.000708918902
+booster[881]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00399286347
+	2:leaf=-0.00097725552
+booster[882]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00493893214
+	2:leaf=0.000737404102
+booster[883]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00244803424
+	2:leaf=0.00087488693
+booster[884]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00209087203
+	2:leaf=-0.00107984548
+booster[885]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00315916725
+	2:leaf=0.000639346777
+booster[886]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000844732858
+	2:leaf=0.00262887659
+booster[887]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000787791971
+	2:leaf=0.00482058479
+booster[888]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00188161887
+	2:leaf=0.00118448096
+booster[889]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00176978193
+	2:leaf=-0.0021636372
+booster[890]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00354401651
+	2:leaf=0.000605519861
+booster[891]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00141943281
+	2:leaf=0.0025645569
+booster[892]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00204011216
+	2:leaf=0.00113734731
+booster[893]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00203999993
+	2:leaf=-0.00181735388
+booster[894]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00381114869
+	2:leaf=0.000581351051
+booster[895]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00513745937
+	2:leaf=0.000640807149
+booster[896]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0038898699
+	2:leaf=-0.00100605737
+booster[897]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00130305416
+	2:leaf=0.00171670492
+booster[898]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00141430157
+	2:leaf=0.00253328448
+booster[899]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00166959909
+	2:leaf=-0.00209363899
+booster[900]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00073671469
+	2:leaf=0.00304434705
+booster[901]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00486080814
+	2:leaf=0.000736460439
+booster[902]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00188952812
+	2:leaf=0.00106844155
+booster[903]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00105011789
+	2:leaf=0.0021087192
+booster[904]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000754796667
+	2:leaf=0.00467982236
+booster[905]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00500958646
+	2:leaf=0.000692924252
+booster[906]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00370002887
+	2:leaf=0.000551435514
+booster[907]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00229982822
+	2:leaf=0.000890095078
+booster[908]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00237119547
+	2:leaf=0.000840823748
+booster[909]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000925891567
+	2:leaf=0.00240232376
+booster[910]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00384803093
+	2:leaf=-0.000952596485
+booster[911]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00476193754
+	2:leaf=0.000702789694
+booster[912]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0028493451
+	2:leaf=0.000668853812
+booster[913]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00371827558
+	2:leaf=-0.000946222921
+booster[914]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00474279001
+	2:leaf=0.000678780198
+booster[915]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00191111327
+	2:leaf=0.0010801832
+booster[916]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000781141804
+	2:leaf=0.00453039259
+booster[917]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000795409956
+	2:leaf=0.00261649489
+booster[918]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00163716229
+	2:leaf=-0.00201398507
+booster[919]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00364587898
+	2:leaf=0.00056724163
+booster[920]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00080553256
+	2:leaf=0.00260373275
+booster[921]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00154754275
+	2:leaf=-0.00133515557
+booster[922]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00140706741
+	2:leaf=0.00139868807
+booster[923]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00276795635
+	2:leaf=0.000724693644
+booster[924]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00115723652
+	2:leaf=0.00171555101
+booster[925]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.00110236637
+	2:leaf=-0.00173235801
+booster[926]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000807300385
+	2:leaf=0.00254236069
+booster[927]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00135821232
+	2:leaf=0.00253169006
+booster[928]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00149347272
+	2:leaf=-0.0012458897
+booster[929]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000653160445
+	2:leaf=0.00287309731
+booster[930]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00486698933
+	2:leaf=0.000694977236
+booster[931]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00353219663
+	2:leaf=0.000545686635
+booster[932]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00377569976
+	2:leaf=-0.000922444568
+booster[933]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00267680734
+	2:leaf=0.000704098085
+booster[934]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000841292378
+	2:leaf=0.00233944482
+booster[935]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00301439757
+	2:leaf=0.000650755828
+booster[936]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00184704072
+	2:leaf=0.00100752979
+booster[937]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000777111796
+	2:leaf=0.00239650323
+booster[938]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00486026751
+	2:leaf=0.000642049068
+booster[939]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00182477909
+	2:leaf=0.00100769824
+booster[940]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000804178824
+	2:leaf=0.00251641427
+booster[941]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00213388121
+	2:leaf=-0.000885047135
+booster[942]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00478834519
+	2:leaf=0.000629054848
+booster[943]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00347838784
+	2:leaf=0.000486578472
+booster[944]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00364840892
+	2:leaf=-0.000941537961
+booster[945]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00141021051
+	2:leaf=-0.00127243914
+booster[946]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0013334211
+	2:leaf=0.00238686684
+booster[947]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00329137337
+	2:leaf=0.00054050819
+booster[948]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00140580675
+	2:leaf=0.00132557552
+booster[949]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.00161481544
+	2:leaf=0.00109417911
+booster[950]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00159488246
+	2:leaf=-0.00204410637
+booster[951]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.000877928629
+	2:leaf=0.00378858857
+booster[952]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00453738775
+	2:leaf=0.000676797703
+booster[953]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000694031187
+	2:leaf=0.00275028986
+booster[954]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000745886762
+	2:leaf=0.00246910867
+booster[955]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00288747111
+	2:leaf=0.000629942107
+booster[956]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0033803382
+	2:leaf=0.000508574012
+booster[957]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000756294932
+	2:leaf=0.00238601724
+booster[958]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.0015330161
+	2:leaf=-0.00193397328
+booster[959]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00135994703
+	2:leaf=0.00246591284
+booster[960]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00175553618
+	2:leaf=0.00107397872
+booster[961]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.0017154878
+	2:leaf=0.000997401075
+booster[962]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00358259189
+	2:leaf=-0.000858861429
+booster[963]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00262926612
+	2:leaf=0.000687398016
+booster[964]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00212726858
+	2:leaf=0.000815768668
+booster[965]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00330277788
+	2:leaf=0.000494836015
+booster[966]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.00109676667
+	2:leaf=0.00157066435
+booster[967]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00453258026
+	2:leaf=0.000643246574
+booster[968]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.00116424542
+	2:leaf=0.001464242
+booster[969]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000763203949
+	2:leaf=0.00234658085
+booster[970]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000718350231
+	2:leaf=0.00435224455
+booster[971]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00256893854
+	2:leaf=0.000684778788
+booster[972]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00278461771
+	2:leaf=0.000587488525
+booster[973]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00316191535
+	2:leaf=0.000501998409
+booster[974]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000940831844
+	2:leaf=0.00182398467
+booster[975]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00322780572
+	2:leaf=0.000460120908
+booster[976]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00197959458
+	2:leaf=-0.000870816119
+booster[977]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00211097463
+	2:leaf=0.00074618723
+booster[978]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00181388517
+	2:leaf=-0.00168286473
+booster[979]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00249894126
+	2:leaf=0.000603879918
+booster[980]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00132403243
+	2:leaf=0.00229948526
+booster[981]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000820930523
+	2:leaf=0.00219842023
+booster[982]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00203304994
+	2:leaf=0.000758535112
+booster[983]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00151864346
+	2:leaf=-0.00193806866
+booster[984]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00137009739
+	2:leaf=-0.00122575171
+booster[985]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00170889555
+	2:leaf=0.00101620902
+booster[986]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0025141784
+	2:leaf=0.000606733665
+booster[987]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000764012977
+	2:leaf=0.00228889333
+booster[988]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000765964563
+	2:leaf=0.00210400461
+booster[989]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00465980079
+	2:leaf=0.000617793063
+booster[990]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00356052117
+	2:leaf=-0.000886982889
+booster[991]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000626277819
+	2:leaf=0.00259916927
+booster[992]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.001558383
+	2:leaf=0.000991933281
+booster[993]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.0014356086
+	2:leaf=0.0010329471
+booster[994]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00441344501
+	2:leaf=0.000663230196
+booster[995]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00128591747
+	2:leaf=0.00228677015
+booster[996]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00124997168
+	2:leaf=0.00120734179
+booster[997]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163939258
+	2:leaf=0.000942557584
+booster[998]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00314880209
+	2:leaf=0.000465778372
+booster[999]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000741559255
+	2:leaf=0.00231768237
+booster[1000]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00129087199
+	2:leaf=-0.00114783866
+booster[1001]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.0019425042
+	2:leaf=0.000783426396
+booster[1002]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00148589059
+	2:leaf=-0.00189186761
+booster[1003]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00308906892
+	2:leaf=0.000449633837
+booster[1004]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00074710144
+	2:leaf=0.0022037751
+booster[1005]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00246264879
+	2:leaf=0.000611270254
+booster[1006]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000628695649
+	2:leaf=0.0024446263
+booster[1007]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000674697396
+	2:leaf=0.00219495571
+booster[1008]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00179980905
+	2:leaf=0.000745986181
+booster[1009]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000877433165
+	2:leaf=0.0033215289
+booster[1010]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.004570344
+	2:leaf=0.000629785471
+booster[1011]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00262591825
+	2:leaf=0.000537259853
+booster[1012]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00124128268
+	2:leaf=0.00115736423
+booster[1013]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00344665651
+	2:leaf=-0.000852345431
+booster[1014]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163854286
+	2:leaf=0.00100145245
+booster[1015]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00430290727
+	2:leaf=0.000633266929
+booster[1016]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00293593388
+	2:leaf=0.000446278835
+booster[1017]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000726825674
+	2:leaf=0.00218546088
+booster[1018]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00163741247
+	2:leaf=0.000857338775
+booster[1019]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000915625715
+	2:leaf=-0.00152775645
+booster[1020]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00237475242
+	2:leaf=0.000568189076
+booster[1021]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0034217746
+	2:leaf=-0.000871333934
+booster[1022]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.000764488243
+	2:leaf=0.00189832749
+booster[1023]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00449509779
+	2:leaf=0.000590939308
+booster[1024]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00155564374
+	2:leaf=0.000846304116
+booster[1025]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000685995561
+	2:leaf=0.00211066264
+booster[1026]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00144863443
+	2:leaf=-0.00184814131
+booster[1027]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00306396093
+	2:leaf=0.000445423619
+booster[1028]:
+0:[present_emp_since<0.315827996] yes=1,no=2,missing=1
+	1:leaf=-0.00154020963
+	2:leaf=0.000909329217
+booster[1029]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000761353702
+	2:leaf=0.00198346958
+booster[1030]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00155966287
+	2:leaf=0.000910317001
+booster[1031]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.00137145782
+	2:leaf=0.000920940307
+booster[1032]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000698120217
+	2:leaf=0.00210811547
+booster[1033]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00296823843
+	2:leaf=0.000444301957
+booster[1034]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00127702125
+	2:leaf=0.00226188055
+booster[1035]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00252661901
+	2:leaf=0.000516373955
+booster[1036]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000669923844
+	2:leaf=0.00209445623
+booster[1037]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00153032679
+	2:leaf=0.000829042809
+booster[1038]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00124948181
+	2:leaf=-0.00111444748
+booster[1039]:
+0:[credit_amount<1388.5] yes=1,no=2,missing=1
+	1:leaf=0.00246685627
+	2:leaf=-0.00111558777
+booster[1040]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00228395569
+	2:leaf=0.000596316357
+booster[1041]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000704292615
+	2:leaf=0.00193935994
+booster[1042]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00122675474
+	2:leaf=-0.00105715857
+booster[1043]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000640962855
+	2:leaf=0.00206299755
+booster[1044]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00422116276
+	2:leaf=0.000650650414
+booster[1045]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00290102349
+	2:leaf=0.000427843916
+booster[1046]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00156598934
+	2:leaf=-0.000818108674
+booster[1047]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000649199996
+	2:leaf=0.00206557638
+booster[1048]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.000775244436
+	2:leaf=0.00344927586
+booster[1049]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.001488109
+	2:leaf=-0.00179683755
+booster[1050]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00109622662
+	2:leaf=0.00111882435
+booster[1051]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00220270059
+	2:leaf=0.00059541472
+booster[1052]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00121838867
+	2:leaf=0.00225203694
+booster[1053]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00439140899
+	2:leaf=0.000598873361
+booster[1054]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00274982955
+	2:leaf=0.000433335284
+booster[1055]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00228576851
+	2:leaf=0.000523836003
+booster[1056]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000969884277
+	2:leaf=0.00133168499
+booster[1057]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00338390889
+	2:leaf=-0.000851966266
+booster[1058]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00242778449
+	2:leaf=0.00050174928
+booster[1059]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000586526876
+	2:leaf=0.00231217197
+booster[1060]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000605329406
+	2:leaf=0.0019887751
+booster[1061]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00282987556
+	2:leaf=0.000444751
+booster[1062]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00145328592
+	2:leaf=0.000828701362
+booster[1063]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00414428674
+	2:leaf=0.000596685801
+booster[1064]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00145676115
+	2:leaf=0.000810196332
+booster[1065]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00331026758
+	2:leaf=-0.000841824745
+booster[1066]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00116989121
+	2:leaf=-0.00104527979
+booster[1067]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000653005787
+	2:leaf=0.00403081067
+booster[1068]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000646762201
+	2:leaf=0.00191161258
+booster[1069]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00263457489
+	2:leaf=0.000480443152
+booster[1070]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00274521951
+	2:leaf=0.00043420514
+booster[1071]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00176832976
+	2:leaf=0.000649507099
+booster[1072]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0017829698
+	2:leaf=0.000655545795
+booster[1073]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00432218565
+	2:leaf=0.000543833885
+booster[1074]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000587569608
+	2:leaf=0.00215117703
+booster[1075]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000892217096
+	2:leaf=0.00138649798
+booster[1076]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00167059235
+	2:leaf=-0.00152589753
+booster[1077]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000790145714
+	2:leaf=0.00158118492
+booster[1078]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00215723668
+	2:leaf=0.000530998514
+booster[1079]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00213259342
+	2:leaf=0.000524563249
+booster[1080]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000633796735
+	2:leaf=0.0018696785
+booster[1081]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00110178581
+	2:leaf=0.00105186633
+booster[1082]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00112792803
+	2:leaf=-0.00100472663
+booster[1083]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000601113483
+	2:leaf=0.00196147687
+booster[1084]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00426102011
+	2:leaf=0.000571854238
+booster[1085]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.00129536632
+	2:leaf=0.000864013738
+booster[1086]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0027049717
+	2:leaf=0.000380649872
+booster[1087]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00210150122
+	2:leaf=0.000484897959
+booster[1088]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00122392806
+	2:leaf=0.00209136447
+booster[1089]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000681072124
+	2:leaf=0.00176135486
+booster[1090]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00261330535
+	2:leaf=0.00037086918
+booster[1091]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000627915782
+	2:leaf=0.00190654572
+booster[1092]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00233339891
+	2:leaf=0.000466073019
+booster[1093]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00140200264
+	2:leaf=-0.00182702357
+booster[1094]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00142098672
+	2:leaf=0.000805245887
+booster[1095]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000900395389
+	2:leaf=0.00126195757
+booster[1096]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00146338833
+	2:leaf=-0.000759246235
+booster[1097]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00158853363
+	2:leaf=0.000627305009
+booster[1098]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0020389813
+	2:leaf=0.000481869647
+booster[1099]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00137345202
+	2:leaf=0.000746277103
+booster[1100]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.000676403171
+	2:leaf=0.00162827212
+booster[1101]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00166825636
+	2:leaf=0.000606261834
+booster[1102]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00259698438
+	2:leaf=0.000364493142
+booster[1103]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000623265747
+	2:leaf=0.00178654888
+booster[1104]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000590366253
+	2:leaf=0.00184086466
+booster[1105]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00249889772
+	2:leaf=0.000402984413
+booster[1106]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.00107260328
+	2:leaf=0.000998158357
+booster[1107]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00118716084
+	2:leaf=0.00211170875
+booster[1108]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00163092639
+	2:leaf=0.000593709876
+booster[1109]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000784091128
+	2:leaf=-0.00128101255
+booster[1110]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00327661121
+	2:leaf=-0.000801192247
+booster[1111]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00411766069
+	2:leaf=0.000596638478
+booster[1112]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.00119984918
+	2:leaf=0.000799162779
+booster[1113]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00064870913
+	2:leaf=0.00389940361
+booster[1114]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00220104586
+	2:leaf=0.000478352187
+booster[1115]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00138351345
+	2:leaf=-0.00173382636
+booster[1116]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.0011713634
+	2:leaf=0.00213302625
+booster[1117]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00395325897
+	2:leaf=0.000592047581
+booster[1118]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00251521775
+	2:leaf=0.000352094445
+booster[1119]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00199030316
+	2:leaf=0.000458872877
+booster[1120]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00103586761
+	2:leaf=-0.000999230193
+booster[1121]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00134932529
+	2:leaf=0.000713799091
+booster[1122]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00318980892
+	2:leaf=-0.000812201237
+booster[1123]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00130411924
+	2:leaf=0.000764877012
+booster[1124]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000627551344
+	2:leaf=0.00169213291
+booster[1125]:
+0:[personal_status_sex<0.338433027] yes=1,no=2,missing=1
+	1:leaf=-0.000839201442
+	2:leaf=0.00113701797
+booster[1126]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000488169113
+	2:leaf=0.00203312025
+booster[1127]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000754192122
+	2:leaf=0.00129345607
+booster[1128]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00132220506
+	2:leaf=0.000768009166
+booster[1129]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.0040220446
+	2:leaf=0.000593021745
+booster[1130]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00313278218
+	2:leaf=-0.000764239929
+booster[1131]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00238769548
+	2:leaf=0.000407539599
+booster[1132]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000568007701
+	2:leaf=0.00184469321
+booster[1133]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00412598206
+	2:leaf=0.000553633727
+booster[1134]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000579799584
+	2:leaf=0.0017158516
+booster[1135]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.00103552861
+	2:leaf=-0.000924937078
+booster[1136]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00245102169
+	2:leaf=0.000363382307
+booster[1137]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00134157517
+	2:leaf=-0.00172829756
+booster[1138]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000823688984
+	2:leaf=0.00300613302
+booster[1139]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0019488968
+	2:leaf=0.000502974144
+booster[1140]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00383412885
+	2:leaf=0.000553668186
+booster[1141]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000455917558
+	2:leaf=0.00232882705
+booster[1142]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000598750717
+	2:leaf=0.00160920143
+booster[1143]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000480857416
+	2:leaf=0.00197334657
+booster[1144]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00127363554
+	2:leaf=0.000723700796
+booster[1145]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.000595917634
+	2:leaf=0.00154535344
+booster[1146]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.003145447
+	2:leaf=-0.000724841841
+booster[1147]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00402696012
+	2:leaf=0.000580053718
+booster[1148]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00206715614
+	2:leaf=0.000442109042
+booster[1149]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00190720451
+	2:leaf=0.000464381155
+booster[1150]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00111694215
+	2:leaf=0.001989129
+booster[1151]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00125563622
+	2:leaf=0.000715558708
+booster[1152]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.00113761134
+	2:leaf=0.00077816972
+booster[1153]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.002406304
+	2:leaf=0.000351655734
+booster[1154]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00132312311
+	2:leaf=-0.00171360222
+booster[1155]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00128288404
+	2:leaf=0.000730530708
+booster[1156]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000627453381
+	2:leaf=0.00372855249
+booster[1157]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.0038258729
+	2:leaf=0.000550980738
+booster[1158]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000426988408
+	2:leaf=0.00226758909
+booster[1159]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000774224871
+	2:leaf=0.00115171063
+booster[1160]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000522026501
+	2:leaf=0.00173903804
+booster[1161]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00309140258
+	2:leaf=-0.000714913767
+booster[1162]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00140815543
+	2:leaf=-0.000634739292
+booster[1163]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00233796588
+	2:leaf=0.000406454172
+booster[1164]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000428298808
+	2:leaf=0.00188879319
+booster[1165]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00222411333
+	2:leaf=0.000410328241
+booster[1166]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00373488478
+	2:leaf=0.000572416757
+booster[1167]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00182022399
+	2:leaf=0.000435872062
+booster[1168]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000565765484
+	2:leaf=0.00176583847
+booster[1169]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000724295794
+	2:leaf=-0.00116570562
+booster[1170]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00198688684
+	2:leaf=0.000405252067
+booster[1171]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000554916915
+	2:leaf=0.00165221712
+booster[1172]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00154983276
+	2:leaf=-0.00139107695
+booster[1173]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00185343274
+	2:leaf=0.000471712789
+booster[1174]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000996929477
+	2:leaf=-0.000899661274
+booster[1175]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000407090789
+	2:leaf=0.00224349392
+booster[1176]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00110625266
+	2:leaf=0.00205585966
+booster[1177]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000496058143
+	2:leaf=0.00171995524
+booster[1178]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000538383727
+	2:leaf=0.00162226334
+booster[1179]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00227842643
+	2:leaf=0.000391850946
+booster[1180]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00139164401
+	2:leaf=0.000595242949
+booster[1181]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00115028
+	2:leaf=0.000711934059
+booster[1182]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00177102757
+	2:leaf=0.000464766606
+booster[1183]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00145594834
+	2:leaf=0.000545131916
+booster[1184]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000502573734
+	2:leaf=0.00161052949
+booster[1185]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00132571964
+	2:leaf=-0.00164634862
+booster[1186]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00108035409
+	2:leaf=0.0019825811
+booster[1187]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00191962661
+	2:leaf=0.000416867202
+booster[1188]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00225592125
+	2:leaf=0.000338316488
+booster[1189]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00174302363
+	2:leaf=0.000408654072
+booster[1190]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000936180993
+	2:leaf=-0.000873265613
+booster[1191]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000572365883
+	2:leaf=0.00150625734
+booster[1192]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00117498019
+	2:leaf=0.000663605402
+booster[1193]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000717647898
+	2:leaf=0.00103853387
+booster[1194]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000929223024
+	2:leaf=0.000895190518
+booster[1195]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0021979406
+	2:leaf=0.000326783804
+booster[1196]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000532910461
+	2:leaf=0.00166757766
+booster[1197]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00299563119
+	2:leaf=-0.000720091688
+booster[1198]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000460013718
+	2:leaf=0.00159137452
+booster[1199]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000479024893
+	2:leaf=0.00162746571
+booster[1200]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00214902451
+	2:leaf=0.000400676246
+booster[1201]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00139056961
+	2:leaf=0.00054408604
+booster[1202]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00378847122
+	2:leaf=0.000552692043
+booster[1203]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00185714033
+	2:leaf=0.00036519664
+booster[1204]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000547476579
+	2:leaf=0.0014069716
+booster[1205]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.000709178334
+	2:leaf=0.00306746061
+booster[1206]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00296075526
+	2:leaf=-0.000693623326
+booster[1207]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000348678441
+	2:leaf=0.0021956258
+booster[1208]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00108931435
+	2:leaf=0.000734031957
+booster[1209]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.0038813029
+	2:leaf=0.000561304158
+booster[1210]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00140034198
+	2:leaf=-0.000563380483
+booster[1211]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00169263815
+	2:leaf=0.000454544526
+booster[1212]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.0009622004
+	2:leaf=-0.000834236562
+booster[1213]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00114745728
+	2:leaf=0.000641752267
+booster[1214]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00128241291
+	2:leaf=-0.00159367477
+booster[1215]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000622898107
+	2:leaf=0.00128483295
+booster[1216]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000485406781
+	2:leaf=0.00156106905
+booster[1217]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00382274622
+	2:leaf=0.000528691511
+booster[1218]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00217034621
+	2:leaf=0.000313813536
+booster[1219]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00168530073
+	2:leaf=0.000397165742
+booster[1220]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000471872656
+	2:leaf=0.00176397141
+booster[1221]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00290895882
+	2:leaf=-0.000714734371
+booster[1222]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00369377783
+	2:leaf=0.00053383148
+booster[1223]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00202325219
+	2:leaf=0.000305568741
+booster[1224]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.0010487414
+	2:leaf=0.000671391375
+booster[1225]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000413698581
+	2:leaf=0.0021223072
+booster[1226]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00106038782
+	2:leaf=0.00190678425
+booster[1227]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000906793401
+	2:leaf=-0.000797243963
+booster[1228]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000890853058
+	2:leaf=0.000873303972
+booster[1229]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00128151558
+	2:leaf=-0.00159175997
+booster[1230]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000566078001
+	2:leaf=0.00355630973
+booster[1231]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00359284249
+	2:leaf=0.000547689386
+booster[1232]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000470494706
+	2:leaf=0.00154871866
+booster[1233]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00210804003
+	2:leaf=0.000333153381
+booster[1234]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00287928875
+	2:leaf=-0.000690901361
+booster[1235]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00107662182
+	2:leaf=0.000678750919
+booster[1236]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00369639066
+	2:leaf=0.000505583885
+booster[1237]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000376765005
+	2:leaf=0.0020288669
+booster[1238]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00134457822
+	2:leaf=-0.000546151889
+booster[1239]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00045971942
+	2:leaf=0.0014925485
+booster[1240]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00149226969
+	2:leaf=-0.00128249719
+booster[1241]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00161267782
+	2:leaf=0.000444013916
+booster[1242]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00132464082
+	2:leaf=0.000516678905
+booster[1243]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00104502449
+	2:leaf=0.00192783854
+booster[1244]:
+0:[credit_amount<2824] yes=1,no=2,missing=1
+	1:leaf=0.00123081019
+	2:leaf=-0.00150458945
+booster[1245]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00101769471
+	2:leaf=0.00189741084
+booster[1246]:
+0:[purpose<0.283104986] yes=1,no=2,missing=1
+	1:leaf=-0.00104233297
+	2:leaf=0.000671613787
+booster[1247]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000484095712
+	2:leaf=0.00140963646
+booster[1248]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000677017961
+	2:leaf=-0.0010063675
+booster[1249]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00345188449
+	2:leaf=0.000535523694
+booster[1250]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000359583268
+	2:leaf=0.00198658649
+booster[1251]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00287192245
+	2:leaf=-0.000670453592
+booster[1252]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0020450647
+	2:leaf=0.000346837798
+booster[1253]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000884271227
+	2:leaf=-0.000748412858
+booster[1254]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00362777337
+	2:leaf=0.00049770117
+booster[1255]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000437107723
+	2:leaf=0.00172855798
+booster[1256]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000456957699
+	2:leaf=0.0015055585
+booster[1257]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00106757355
+	2:leaf=-0.0017073144
+booster[1258]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00101989903
+	2:leaf=0.00188763626
+booster[1259]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00110625301
+	2:leaf=0.000666533131
+booster[1260]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00123820791
+	2:leaf=0.000520544534
+booster[1261]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000538597698
+	2:leaf=0.00341145508
+booster[1262]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00160449615
+	2:leaf=0.000442135817
+booster[1263]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000837238622
+	2:leaf=-0.00219307584
+booster[1264]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00106810068
+	2:leaf=0.000654993113
+booster[1265]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000697073585
+	2:leaf=0.00265811291
+booster[1266]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000794378109
+	2:leaf=0.000822901842
+booster[1267]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0027788789
+	2:leaf=-0.000632591022
+booster[1268]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0015489856
+	2:leaf=0.000452825072
+booster[1269]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00200199685
+	2:leaf=0.000337728619
+booster[1270]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00171416334
+	2:leaf=0.000374591793
+booster[1271]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000338553975
+	2:leaf=0.00191461004
+booster[1272]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.000486735487
+	2:leaf=0.00131064386
+booster[1273]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00192566274
+	2:leaf=0.000345948589
+booster[1274]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0004387761
+	2:leaf=0.0014771428
+booster[1275]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000434841728
+	2:leaf=0.00144297478
+booster[1276]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000451562781
+	2:leaf=0.00136418513
+booster[1277]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00194176973
+	2:leaf=0.000335096702
+booster[1278]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000942845363
+	2:leaf=0.00069009146
+booster[1279]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00343431788
+	2:leaf=0.000527067634
+booster[1280]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000827836921
+	2:leaf=-0.00075026002
+booster[1281]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000650843023
+	2:leaf=0.000947280787
+booster[1282]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000979955192
+	2:leaf=0.00178323558
+booster[1283]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00110180851
+	2:leaf=-0.00177793449
+booster[1284]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.00106569286
+	2:leaf=0.000587015355
+booster[1285]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.00104808889
+	2:leaf=0.000601608015
+booster[1286]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000431537075
+	2:leaf=0.0013946197
+booster[1287]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00111854542
+	2:leaf=-0.000545165618
+booster[1288]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000379194244
+	2:leaf=0.00162606908
+booster[1289]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000305323454
+	2:leaf=0.00189370441
+booster[1290]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00191554648
+	2:leaf=0.000334999087
+booster[1291]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.0015332246
+	2:leaf=0.000420797354
+booster[1292]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00150082482
+	2:leaf=0.000385168125
+booster[1293]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.000497971603
+	2:leaf=0.001260377
+booster[1294]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00164634257
+	2:leaf=0.000355369586
+booster[1295]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00344323553
+	2:leaf=0.000486881851
+booster[1296]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000459225383
+	2:leaf=0.0013762539
+booster[1297]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000611054886
+	2:leaf=0.0009579623
+booster[1298]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00273506972
+	2:leaf=-0.000663839164
+booster[1299]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000969777175
+	2:leaf=0.00181205652
+booster[1300]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000989990542
+	2:leaf=0.000605433597
+booster[1301]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000835935585
+	2:leaf=-0.00220251153
+booster[1302]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000462033553
+	2:leaf=0.00129601301
+booster[1303]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00187417108
+	2:leaf=0.000297071878
+booster[1304]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000696200354
+	2:leaf=0.002623735
+booster[1305]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00121318665
+	2:leaf=0.000482704228
+booster[1306]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000971741625
+	2:leaf=0.000600782048
+booster[1307]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.00122306403
+	2:leaf=0.000464023935
+booster[1308]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000780889706
+	2:leaf=0.000762448006
+booster[1309]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000584373774
+	2:leaf=-0.000923168671
+booster[1310]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00103782385
+	2:leaf=-0.00169107341
+booster[1311]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000378277764
+	2:leaf=0.00152976031
+booster[1312]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00147384731
+	2:leaf=0.000388119894
+booster[1313]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000531369529
+	2:leaf=0.00108481885
+booster[1314]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000978043536
+	2:leaf=0.0018073906
+booster[1315]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00107258256
+	2:leaf=-0.00170837704
+booster[1316]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000430443761
+	2:leaf=0.00138374418
+booster[1317]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00154206471
+	2:leaf=0.000344363245
+booster[1318]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000972384238
+	2:leaf=0.00179929344
+booster[1319]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00145365798
+	2:leaf=0.000379707693
+booster[1320]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000980293262
+	2:leaf=0.000545597984
+booster[1321]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000895640987
+	2:leaf=0.000627029396
+booster[1322]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000805900374
+	2:leaf=-0.00218296214
+booster[1323]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000697281735
+	2:leaf=0.00258334796
+booster[1324]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00344335358
+	2:leaf=0.000502029841
+booster[1325]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00137606892
+	2:leaf=-0.00125844404
+booster[1326]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000432821515
+	2:leaf=0.00135720649
+booster[1327]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000982312136
+	2:leaf=0.00179322565
+booster[1328]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000404768303
+	2:leaf=0.00129514874
+booster[1329]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000832370424
+	2:leaf=-0.00219221064
+booster[1330]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00351079041
+	2:leaf=0.000469020859
+booster[1331]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000352122879
+	2:leaf=0.00182247849
+booster[1332]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00178105221
+	2:leaf=0.000284318085
+booster[1333]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000794000749
+	2:leaf=-0.00073325797
+booster[1334]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00269509898
+	2:leaf=-0.000660831982
+booster[1335]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00185612275
+	2:leaf=0.000288797164
+booster[1336]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000322831387
+	2:leaf=0.00177542795
+booster[1337]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00142294669
+	2:leaf=0.000375944976
+booster[1338]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000522366667
+	2:leaf=0.00326942722
+booster[1339]:
+0:[credit_amount<683.5] yes=1,no=2,missing=1
+	1:leaf=-0.00327543519
+	2:leaf=0.000517979672
+booster[1340]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00100907078
+	2:leaf=-0.0016460201
+booster[1341]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000770763203
+	2:leaf=-0.000686977699
+booster[1342]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.00097872864
+	2:leaf=0.000584880472
+booster[1343]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00181110692
+	2:leaf=0.000267737312
+booster[1344]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000380623591
+	2:leaf=0.00147375115
+booster[1345]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000731205626
+	2:leaf=0.000703754136
+booster[1346]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000444010133
+	2:leaf=0.00122430455
+booster[1347]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.00108414318
+	2:leaf=0.000450219493
+booster[1348]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000405836588
+	2:leaf=0.00133707793
+booster[1349]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000980979181
+	2:leaf=0.00183352537
+booster[1350]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000917131023
+	2:leaf=0.00056174933
+booster[1351]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00136874092
+	2:leaf=0.000370940979
+booster[1352]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.0011586789
+	2:leaf=-0.000466796395
+booster[1353]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00101910927
+	2:leaf=-0.00162368105
+booster[1354]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000759108632
+	2:leaf=-0.00065218244
+booster[1355]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000543778006
+	2:leaf=0.000917285623
+booster[1356]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00097982015
+	2:leaf=0.00183720363
+booster[1357]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000279641099
+	2:leaf=0.00172562397
+booster[1358]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000818348024
+	2:leaf=-0.00208384241
+booster[1359]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000951518712
+	2:leaf=0.00180493051
+booster[1360]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.00037513487
+	2:leaf=0.00129283604
+booster[1361]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000897710212
+	2:leaf=0.000549270248
+booster[1362]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00105448044
+	2:leaf=-0.00163623539
+booster[1363]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0017638671
+	2:leaf=0.000293131627
+booster[1364]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000952533155
+	2:leaf=0.00176924432
+booster[1365]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.00110555359
+	2:leaf=-0.000431499036
+booster[1366]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00168768282
+	2:leaf=0.000304142392
+booster[1367]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000379861944
+	2:leaf=0.0012832795
+booster[1368]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.0010329053
+	2:leaf=-0.00163493771
+booster[1369]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000656880671
+	2:leaf=0.00254440308
+booster[1370]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000263730733
+	2:leaf=0.00168806035
+booster[1371]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000821811089
+	2:leaf=-0.00206656079
+booster[1372]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00134654471
+	2:leaf=0.00037968668
+booster[1373]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00094986317
+	2:leaf=0.00179002609
+booster[1374]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00163526426
+	2:leaf=0.000297188381
+booster[1375]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00133742811
+	2:leaf=0.000344648113
+booster[1376]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000340857048
+	2:leaf=0.00140516064
+booster[1377]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000814185769
+	2:leaf=0.000589170377
+booster[1378]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00266375928
+	2:leaf=-0.000620436564
+booster[1379]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000254738698
+	2:leaf=0.00164018001
+booster[1380]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000343326159
+	2:leaf=0.00130845967
+booster[1381]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00170779682
+	2:leaf=0.000314976933
+booster[1382]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000751478598
+	2:leaf=-0.00060026173
+booster[1383]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00333232596
+	2:leaf=0.000512996048
+booster[1384]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000681406236
+	2:leaf=0.000667313696
+booster[1385]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00132346235
+	2:leaf=0.000342980813
+booster[1386]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000405064231
+	2:leaf=0.00124710926
+booster[1387]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.000543630449
+	2:leaf=0.000821188558
+booster[1388]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000885035202
+	2:leaf=0.000545294257
+booster[1389]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00100491836
+	2:leaf=-0.00162120198
+booster[1390]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.00048770319
+	2:leaf=0.00100184453
+booster[1391]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00143254385
+	2:leaf=0.000307748996
+booster[1392]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00042027887
+	2:leaf=0.00115348666
+booster[1393]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00169082766
+	2:leaf=0.000261193898
+booster[1394]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000957614277
+	2:leaf=0.0017346245
+booster[1395]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000374855241
+	2:leaf=0.00123540149
+booster[1396]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000789242738
+	2:leaf=-0.00209222292
+booster[1397]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.0007026479
+	2:leaf=-0.000620222883
+booster[1398]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000396996271
+	2:leaf=0.00110464997
+booster[1399]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000652588264
+	2:leaf=0.00251866947
+booster[1400]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0026461517
+	2:leaf=-0.000594575366
+booster[1401]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00159287907
+	2:leaf=0.000316378835
+booster[1402]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000820932619
+	2:leaf=0.000541799469
+booster[1403]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.0010552922
+	2:leaf=0.000434411515
+booster[1404]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00164524373
+	2:leaf=0.000269995508
+booster[1405]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00340957078
+	2:leaf=0.000459120289
+booster[1406]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.000996520626
+	2:leaf=-0.000443263503
+booster[1407]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00132883817
+	2:leaf=-0.00120591209
+booster[1408]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000340798986
+	2:leaf=0.00134760141
+booster[1409]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000936017837
+	2:leaf=0.00172318262
+booster[1410]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00160029472
+	2:leaf=0.000253473496
+booster[1411]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000385562511
+	2:leaf=0.00119819609
+booster[1412]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.0010204789
+	2:leaf=-0.00164049643
+booster[1413]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00326211541
+	2:leaf=0.000468853832
+booster[1414]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000307095906
+	2:leaf=0.00156915991
+booster[1415]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00127851567
+	2:leaf=0.000316806458
+booster[1416]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000668912835
+	2:leaf=-0.000617934798
+booster[1417]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00257346011
+	2:leaf=-0.000627061061
+booster[1418]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000920032151
+	2:leaf=0.00171492831
+booster[1419]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000800166687
+	2:leaf=-0.00209709629
+booster[1420]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00125026819
+	2:leaf=0.000315276353
+booster[1421]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000857530744
+	2:leaf=0.000508636062
+booster[1422]:
+0:[credit_amount<7480.5] yes=1,no=2,missing=1
+	1:leaf=-0.000599483901
+	2:leaf=0.00264353398
+booster[1423]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000347951689
+	2:leaf=0.00120904378
+booster[1424]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000361930608
+	2:leaf=0.00109533593
+booster[1425]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000819841516
+	2:leaf=0.000521261827
+booster[1426]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00138574687
+	2:leaf=0.000321484578
+booster[1427]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.00101970066
+	2:leaf=0.000403732032
+booster[1428]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00334682548
+	2:leaf=0.000454407331
+booster[1429]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000521030335
+	2:leaf=0.000801075192
+booster[1430]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000382193248
+	2:leaf=0.00113756803
+booster[1431]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000748679449
+	2:leaf=-0.00203902996
+booster[1432]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.000976358482
+	2:leaf=0.000375504198
+booster[1433]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000468243146
+	2:leaf=0.000904383778
+booster[1434]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000935444899
+	2:leaf=0.00168688875
+booster[1435]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000665224448
+	2:leaf=0.000645948981
+booster[1436]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000755104411
+	2:leaf=0.000526331365
+booster[1437]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00031219126
+	2:leaf=0.00127662346
+booster[1438]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00100400543
+	2:leaf=-0.00160622818
+booster[1439]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00123345642
+	2:leaf=0.000321400963
+booster[1440]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000934223121
+	2:leaf=0.0017048514
+booster[1441]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000345051172
+	2:leaf=0.00115538412
+booster[1442]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00158457761
+	2:leaf=0.000255552819
+booster[1443]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000989017659
+	2:leaf=-0.00160597754
+booster[1444]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000649822177
+	2:leaf=0.00244597229
+booster[1445]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000761562027
+	2:leaf=-0.00200191559
+booster[1446]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000356731325
+	2:leaf=0.00112755294
+booster[1447]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.00092099607
+	2:leaf=0.00172415923
+booster[1448]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000808765937
+	2:leaf=0.000474174361
+booster[1449]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000683702587
+	2:leaf=-0.000572113262
+booster[1450]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000985041726
+	2:leaf=-0.00155992329
+booster[1451]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00033839079
+	2:leaf=0.00115114567
+booster[1452]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000906794332
+	2:leaf=0.00171786291
+booster[1453]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00154478359
+	2:leaf=0.000262925023
+booster[1454]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000503420946
+	2:leaf=-0.000769022969
+booster[1455]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000260863453
+	2:leaf=0.00153280247
+booster[1456]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000602902786
+	2:leaf=0.000629955844
+booster[1457]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00318232994
+	2:leaf=0.000480676274
+booster[1458]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00037514788
+	2:leaf=0.00101685175
+booster[1459]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00119929062
+	2:leaf=0.000309740251
+booster[1460]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00119468418
+	2:leaf=0.000289087126
+booster[1461]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00255178171
+	2:leaf=-0.000621950661
+booster[1462]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000335014542
+	2:leaf=0.00108244957
+booster[1463]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00150197546
+	2:leaf=0.000266313902
+booster[1464]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000776763191
+	2:leaf=0.000471978594
+booster[1465]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00096960162
+	2:leaf=-0.00157236587
+booster[1466]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000264842791
+	2:leaf=0.00147059187
+booster[1467]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000652030052
+	2:leaf=-0.000554509577
+booster[1468]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000903074106
+	2:leaf=0.0016912662
+booster[1469]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.0013067734
+	2:leaf=0.000296953222
+booster[1470]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000754744106
+	2:leaf=-0.00200675218
+booster[1471]:
+0:[duration_in_month<31.5] yes=1,no=2,missing=1
+	1:leaf=-0.000385401974
+	2:leaf=0.000961185724
+booster[1472]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000340767205
+	2:leaf=0.0011324666
+booster[1473]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000619194296
+	2:leaf=0.00240914477
+booster[1474]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.00077131734
+	2:leaf=-0.00197222712
+booster[1475]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000321059459
+	2:leaf=0.00107052166
+booster[1476]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000876143575
+	2:leaf=0.00167560822
+booster[1477]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.000989808817
+	2:leaf=-0.000364752923
+booster[1478]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00100929686
+	2:leaf=-0.0015502203
+booster[1479]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000298917264
+	2:leaf=0.00109127339
+booster[1480]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00113866921
+	2:leaf=0.000333361473
+booster[1481]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00143817847
+	2:leaf=0.000263370806
+booster[1482]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000243158414
+	2:leaf=0.00143783074
+booster[1483]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00325111556
+	2:leaf=0.000459016126
+booster[1484]:
+0:[other_installment_plans<0.335811496] yes=1,no=2,missing=1
+	1:leaf=-0.000374031049
+	2:leaf=0.000934686163
+booster[1485]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0015247782
+	2:leaf=0.000231747283
+booster[1486]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000794048072
+	2:leaf=0.000419711549
+booster[1487]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000308609044
+	2:leaf=0.00120605051
+booster[1488]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.000840475259
+	2:leaf=-0.000418731564
+booster[1489]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000766828831
+	2:leaf=0.000449823827
+booster[1490]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000625732297
+	2:leaf=0.00238590734
+booster[1491]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000576051185
+	2:leaf=0.00060070667
+booster[1492]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00147617736
+	2:leaf=0.000245884876
+booster[1493]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000454492227
+	2:leaf=0.000763528049
+booster[1494]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000687026826
+	2:leaf=0.000496319961
+booster[1495]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00143381802
+	2:leaf=0.000226152551
+booster[1496]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.0024854287
+	2:leaf=-0.00059379125
+booster[1497]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00110663404
+	2:leaf=0.000304863177
+booster[1498]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000635992212
+	2:leaf=-0.00054269284
+booster[1499]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000756939116
+	2:leaf=0.000470436556
+booster[1500]:
+0:[account_check_status<0.465346515] yes=1,no=2,missing=1
+	1:leaf=-0.0004638143
+	2:leaf=0.000708560401
+booster[1501]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000236668551
+	2:leaf=0.00139894418
+booster[1502]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00120541349
+	2:leaf=0.000278364605
+booster[1503]:
+0:[job<0.334262997] yes=1,no=2,missing=1
+	1:leaf=0.000315800688
+	2:leaf=-0.00101390423
+booster[1504]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00315576233
+	2:leaf=0.000458685216
+booster[1505]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.000308362476
+	2:leaf=0.00115755619
+booster[1506]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.00049222447
+	2:leaf=0.00302461558
+booster[1507]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000740413263
+	2:leaf=-0.00193409086
+booster[1508]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000325676869
+	2:leaf=0.00103981642
+booster[1509]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000333670847
+	2:leaf=0.000973459624
+booster[1510]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000894983881
+	2:leaf=0.00170020142
+booster[1511]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000729932683
+	2:leaf=0.000462647062
+booster[1512]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00111101812
+	2:leaf=0.000303376175
+booster[1513]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.0013445525
+	2:leaf=0.000235857122
+booster[1514]:
+0:[account_check_status<0.189340502] yes=1,no=2,missing=1
+	1:leaf=-0.000852150784
+	2:leaf=0.000348859729
+booster[1515]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000937574194
+	2:leaf=-0.00152925204
+booster[1516]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00142196461
+	2:leaf=0.000206957338
+booster[1517]:
+0:[duration_in_month<26.5] yes=1,no=2,missing=1
+	1:leaf=-0.000412149413
+	2:leaf=0.000792912673
+booster[1518]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000910720963
+	2:leaf=0.00164616131
+booster[1519]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000239793488
+	2:leaf=0.00134303269
+booster[1520]:
+0:[age<26.5] yes=1,no=2,missing=1
+	1:leaf=0.00079215935
+	2:leaf=-0.000377324148
+booster[1521]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.00096504594
+	2:leaf=-0.00152752572
+booster[1522]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000317180849
+	2:leaf=0.00107965572
+booster[1523]:
+0:[savings<0.280555487] yes=1,no=2,missing=1
+	1:leaf=-0.000873176556
+	2:leaf=0.000352553994
+booster[1524]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.00131454528
+	2:leaf=0.000228917328
+booster[1525]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000232891412
+	2:leaf=0.0013127214
+booster[1526]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00138249516
+	2:leaf=0.000222799557
+booster[1527]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000891386007
+	2:leaf=0.00164182414
+booster[1528]:
+0:[credit_amount<2246.5] yes=1,no=2,missing=1
+	1:leaf=0.00129929115
+	2:leaf=-0.00113328767
+booster[1529]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000691366207
+	2:leaf=0.00043194677
+booster[1530]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00108042371
+	2:leaf=0.000287528179
+booster[1531]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00245376281
+	2:leaf=-0.000581222237
+booster[1532]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000634408381
+	2:leaf=-0.00051886763
+booster[1533]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00104440888
+	2:leaf=0.000293250574
+booster[1534]:
+0:[credit_history<0.260978997] yes=1,no=2,missing=1
+	1:leaf=-0.000870004413
+	2:leaf=0.000339356309
+booster[1535]:
+0:[other_installment_plans<0.415603995] yes=1,no=2,missing=1
+	1:leaf=-0.000296707702
+	2:leaf=0.00100195664
+booster[1536]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000697951938
+	2:leaf=0.000404930179
+booster[1537]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000296918646
+	2:leaf=0.00101833628
+booster[1538]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00313686091
+	2:leaf=0.000472188316
+booster[1539]:
+0:[credit_amount<605] yes=1,no=2,missing=1
+	1:leaf=-0.00317856832
+	2:leaf=0.000414931594
+booster[1540]:
+0:[credit_amount<10841.5] yes=1,no=2,missing=1
+	1:leaf=-0.000507725461
+	2:leaf=0.00294521288
+booster[1541]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.000348070957
+	2:leaf=0.000945477397
+booster[1542]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000718496914
+	2:leaf=-0.0019304211
+booster[1543]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000906875532
+	2:leaf=0.00164321589
+booster[1544]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000557948078
+	2:leaf=0.000543057802
+booster[1545]:
+0:[job<0.334262997] yes=1,no=2,missing=1
+	1:leaf=0.000299928826
+	2:leaf=-0.00100415002
+booster[1546]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000915280951
+	2:leaf=-0.00149991724
+booster[1547]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.0013829401
+	2:leaf=0.000198419089
+booster[1548]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000341203617
+	2:leaf=0.00099117402
+booster[1549]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000904819404
+	2:leaf=0.00163873937
+booster[1550]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000921331288
+	2:leaf=-0.0014972667
+booster[1551]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000585940841
+	2:leaf=-0.000523866271
+booster[1552]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00133468083
+	2:leaf=0.000198280482
+booster[1553]:
+0:[credit_history<0.478867501] yes=1,no=2,missing=1
+	1:leaf=-0.00028511553
+	2:leaf=0.00110745511
+booster[1554]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000696735107
+	2:leaf=0.000414710958
+booster[1555]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000230332473
+	2:leaf=0.0012713176
+booster[1556]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000292215234
+	2:leaf=0.000990621513
+booster[1557]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.0010477748
+	2:leaf=0.000279302505
+booster[1558]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00031576812
+	2:leaf=0.000902759377
+booster[1559]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.000409427477
+	2:leaf=0.000706728548
+booster[1560]:
+0:[age<35.5] yes=1,no=2,missing=1
+	1:leaf=0.000427892985
+	2:leaf=-0.000639135484
+booster[1561]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000865602226
+	2:leaf=0.00163105037
+booster[1562]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000740585325
+	2:leaf=-0.00191909389
+booster[1563]:
+0:[job<0.334262997] yes=1,no=2,missing=1
+	1:leaf=0.00028687442
+	2:leaf=-0.000931788178
+booster[1564]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000307651033
+	2:leaf=0.000970668276
+booster[1565]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.00101192005
+	2:leaf=0.000270867691
+booster[1566]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000571926241
+	2:leaf=-0.000498933718
+booster[1567]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.00061550329
+	2:leaf=0.00235872646
+booster[1568]:
+0:[telephone<0.319024503] yes=1,no=2,missing=1
+	1:leaf=-0.000592541299
+	2:leaf=0.000448883016
+booster[1569]:
+0:[installment_as_income_perc<2.5] yes=1,no=2,missing=1
+	1:leaf=-0.000675497344
+	2:leaf=0.000419979653
+booster[1570]:
+0:[other_debtors<0.251507998] yes=1,no=2,missing=1
+	1:leaf=-0.00128985487
+	2:leaf=0.000212626022
+booster[1571]:
+0:[people_under_maintenance<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000282722031
+	2:leaf=0.000942811545
+booster[1572]:
+0:[purpose<0.227549493] yes=1,no=2,missing=1
+	1:leaf=-0.00111942377
+	2:leaf=0.000248475437
+booster[1573]:
+0:[present_res_since<1.5] yes=1,no=2,missing=1
+	1:leaf=-0.000989296008
+	2:leaf=0.00025677876
+booster[1574]:
+0:[credit_amount<959.5] yes=1,no=2,missing=1
+	1:leaf=0.00241670432
+	2:leaf=-0.000577398052
+booster[1575]:
+0:[credit_amount<653] yes=1,no=2,missing=1
+	1:leaf=-0.00306996284
+	2:leaf=0.000460515323
+booster[1576]:
+0:[personal_status_sex<0.389539003] yes=1,no=2,missing=1
+	1:leaf=-0.000235102183
+	2:leaf=0.00125458895
+booster[1577]:
+0:[age<25.5] yes=1,no=2,missing=1
+	1:leaf=0.000797744491
+	2:leaf=-0.000326464564
+booster[1578]:
+0:[credit_amount<6719.5] yes=1,no=2,missing=1
+	1:leaf=-0.000591050251
+	2:leaf=0.00228181249
+booster[1579]:
+0:[duration_in_month<8.5] yes=1,no=2,missing=1
+	1:leaf=-0.001227331
+	2:leaf=0.000229945101
+booster[1580]:
+0:[credit_amount<5024] yes=1,no=2,missing=1
+	1:leaf=0.000729236403
+	2:leaf=-0.00191609038
+booster[1581]:
+0:[property<0.392789006] yes=1,no=2,missing=1
+	1:leaf=-0.000300275773
+	2:leaf=0.000943856605
+booster[1582]:
+0:[savings<0.370400995] yes=1,no=2,missing=1
+	1:leaf=-0.000689612643
+	2:leaf=0.000392048241
+booster[1583]:
+0:[duration_in_month<15.5] yes=1,no=2,missing=1
+	1:leaf=-0.000648246671
+	2:leaf=0.000397439813
+booster[1584]:
+0:[present_emp_since<0.252528995] yes=1,no=2,missing=1
+	1:leaf=-0.00100754143
+	2:leaf=0.000254556478
+booster[1585]:
+0:[personal_status_sex<0.303170502] yes=1,no=2,missing=1
+	1:leaf=-0.000518954417
+	2:leaf=0.00049807335
+booster[1586]:
+0:[present_res_since<2.5] yes=1,no=2,missing=1
+	1:leaf=0.000535248721
+	2:leaf=-0.000475176523
+booster[1587]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000861522742
+	2:leaf=0.00158549275
+booster[1588]:
+0:[job<0.334262997] yes=1,no=2,missing=1
+	1:leaf=0.000288954354
+	2:leaf=-0.000937212841
+booster[1589]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.000937377685
+	2:leaf=-0.00151624286
+booster[1590]:
+0:[purpose<0.387499988] yes=1,no=2,missing=1
+	1:leaf=-0.0003984512
+	2:leaf=0.000644628424
+booster[1591]:
+0:[credit_amount<3909.5] yes=1,no=2,missing=1
+	1:leaf=-0.000863197085
+	2:leaf=0.00159129628
+booster[1592]:
+0:[credit_amount<3554] yes=1,no=2,missing=1
+	1:leaf=0.0009336886
+	2:leaf=-0.00149223872
+booster[1593]:
+0:[housing<0.419972003] yes=1,no=2,missing=1
+	1:leaf=-0.00030088317
+	2:leaf=0.000846542593
